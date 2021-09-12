@@ -1,0 +1,537 @@
+{
+    "Casablanca-Settat": [
+        {
+            "province": "Casablanca",
+            "location": {
+                "lat": 33.5731104,
+                "lng": -7.589843399999999
+            }
+        },
+        {
+            "province": "Mohammadia",
+            "location": {
+                "lat": 33.6835086,
+                "lng": -7.384854699999999
+            }
+        },
+        {
+            "province": "El Jadida",
+            "location": {
+                "lat": 33.2316326,
+                "lng": -8.500711599999999
+            }
+        },
+        {
+            "province": "Nouaceur",
+            "location": {
+                "lat": 33.3670393,
+                "lng": -7.5732537
+            }
+        },
+        {
+            "province": "Médiouna",
+            "location": {
+                "lat": 33.4540939,
+                "lng": -7.516602000000001
+            }
+        },
+        {
+            "province": "Benslimane",
+            "location": {
+                "lat": 33.6189698,
+                "lng": -7.1305536
+            }
+        },
+        {
+            "province": "Berrechid",
+            "location": {
+                "lat": 33.268687,
+                "lng": -7.5843171
+            }
+        },
+        {
+            "province": "Settat",
+            "location": {
+                "lat": 32.99242419999999,
+                "lng": -7.622266499999999
+            }
+        },
+        {
+            "province": "Sidi Bennour",
+            "location": {
+                "lat": 32.6521619,
+                "lng": -8.4266472
+            }
+        }
+    ],
+    "Rabat-Salé-Kénitra": [
+        {
+            "province": "​Rabat",
+            "location": {
+                "lat": 33.9715904,
+                "lng": -6.8498129
+            }
+        },
+        {
+            "province": "Salé",
+            "location": {
+                "lat": 34.0336969,
+                "lng": -6.770813800000001
+            }
+        },
+        {
+            "province": "Kénitra",
+            "location": {
+                "lat": 34.2540503,
+                "lng": -6.5890166
+            }
+        },
+        {
+            "province": "Skhirate-Témara",
+            "location": {
+                "lat": 33.7390041,
+                "lng": -6.877992600000001
+            }
+        },
+        {
+            "province": "Khémisset",
+            "location": {
+                "lat": 33.8153704,
+                "lng": -6.0573302
+            }
+        },
+        {
+            "province": "Sidi Kacem",
+            "location": {
+                "lat": 34.2260172,
+                "lng": -5.7129164
+            }
+        },
+        {
+            "province": "Sidi Slimane",
+            "location": {
+                "lat": 34.2622961,
+                "lng": -5.9239749
+            }
+        }
+    ],
+    "Marrakech-Safi": [
+        {
+            "province": "Marrakech",
+            "location": {
+                "lat": 31.6294723,
+                "lng": -7.981084500000001
+            }
+        },
+        {
+            "province": "Chichaoua",
+            "location": {
+                "lat": 31.5383581,
+                "lng": -8.7646388
+            }
+        },
+        {
+            "province": "Al Haouz",
+            "location": {
+                "lat": 31.2956729,
+                "lng": -7.872159999999999
+            }
+        },
+        {
+            "province": "Kelâa des Sraghna",
+            "location": {
+                "lat": 32.0550961,
+                "lng": -7.400287199999999
+            }
+        },
+        {
+            "province": "Essaouira",
+            "location": {
+                "lat": 31.5084926,
+                "lng": -9.7595041
+            }
+        },
+        {
+            "province": "Rehamna",
+            "location": {
+                "lat": 32.286308,
+                "lng": -7.959286299999999
+            }
+        }
+    ],
+    "Fès-Meknès": [
+        {
+            "province": "Fès",
+            "location": {
+                "lat": 34.0181246,
+                "lng": -5.0078451
+            }
+        },
+        {
+            "province": "Meknès",
+            "location": {
+                "lat": 33.8730164,
+                "lng": -5.5407299
+            }
+        },
+        {
+            "province": "El Hajeb",
+            "location": {
+                "lat": 33.685735,
+                "lng": -5.3677844
+            }
+        },
+        {
+            "province": "Ifrane",
+            "location": {
+                "lat": 33.5228062,
+                "lng": -5.1109552
+            }
+        },
+        {
+            "province": "Moulay Yacoub",
+            "location": {
+                "lat": 34.08744790000001,
+                "lng": -5.1784019
+            }
+        },
+        {
+            "province": "Sefrou",
+            "location": {
+                "lat": 33.8305244,
+                "lng": -4.835315400000001
+            }
+        },
+        {
+            "province": "Boulemane",
+            "location": {
+                "lat": 33.3625159,
+                "lng": -4.7303397
+            }
+        },
+        {
+            "province": "Taounate",
+            "location": {
+                "lat": 34.536917,
+                "lng": -4.6398693
+            }
+        },
+        {
+            "province": "Taza",
+            "location": {
+                "lat": 34.2105603,
+                "lng": -3.9980485
+            }
+        }
+    ],
+    "Tanger-Tétouan-Al Hoceïma": [
+        {
+            "province": "​Tanger-Assilah",
+            "location": {
+                "lat": 35.5550365,
+                "lng": -5.8564864
+            }
+        },
+        {
+            "province": "M'diq-Fnideq",
+            "location": {
+                "lat": 35.73012,
+                "lng": -5.373017600000001
+            }
+        },
+        {
+            "province": "Tétouan ",
+            "location": {
+                "lat": 35.5888995,
+                "lng": -5.3625516
+            }
+        },
+        {
+            "province": "Fahs-Anjra",
+            "location": {
+                "lat": 35.7601992,
+                "lng": -5.6668306
+            }
+        },
+        {
+            "province": "Larache",
+            "location": {
+                "lat": 35.1744271,
+                "lng": -6.1473964
+            }
+        },
+        {
+            "province": "Al Hoceima",
+            "location": {
+                "lat": 35.2445589,
+                "lng": -3.9317468
+            }
+        },
+        {
+            "province": "Chefchaouen",
+            "location": {
+                "lat": 35.168796,
+                "lng": -5.268364099999999
+            }
+        },
+        {
+            "province": "Ouazzane",
+            "location": {
+                "lat": 34.7953732,
+                "lng": -5.567558
+            }
+        }
+    ],
+    "l'Oriental": [
+        {
+            "province": "Oujda-Angad",
+            "location": {
+                "lat": 34.7130815,
+                "lng": -2.027319
+            }
+        },
+        {
+            "province": "Nador",
+            "location": {
+                "lat": 35.1686165,
+                "lng": -2.9275836
+            }
+        },
+        {
+            "province": "Driouch",
+            "location": {
+                "lat": 34.9792528,
+                "lng": -3.398304
+            }
+        },
+        {
+            "province": "Jerada",
+            "location": {
+                "lat": 34.3061791,
+                "lng": -2.1794136
+            }
+        },
+        {
+            "province": "Berkan",
+            "location": {
+                "lat": 34.9177281,
+                "lng": -2.3123031
+            }
+        },
+        {
+            "province": "Taourirt",
+            "location": {
+                "lat": 34.3983716,
+                "lng": -2.8935028
+            }
+        },
+        {
+            "province": "Guercif",
+            "location": {
+                "lat": 34.2299391,
+                "lng": -3.3489671
+            }
+        },
+        {
+            "province": "Figuig",
+            "location": {
+                "lat": 32.1092613,
+                "lng": -1.229806
+            }
+        }
+    ],
+    "Béni Mellal-Khénifra": [
+        {
+            "province": "Béni Mellal",
+            "location": {
+                "lat": 32.342443,
+                "lng": -6.375799
+            }
+        },
+        {
+            "province": "Azilal",
+            "location": {
+                "lat": 31.9649107,
+                "lng": -6.5730004
+            }
+        },
+        {
+            "province": "Fquih Ben Salah",
+            "location": {
+                "lat": 32.5009216,
+                "lng": -6.6905458
+            }
+        },
+        {
+            "province": "Khénifra",
+            "location": {
+                "lat": 32.9340471,
+                "lng": -5.661570999999999
+            }
+        },
+        {
+            "province": "Khouribga​",
+            "location": {
+                "lat": 32.886023,
+                "lng": -6.9208655
+            }
+        }
+    ],
+    "Drâa-Tafilalet": [
+        {
+            "province": "Errachidia",
+            "location": {
+                "lat": 31.927236,
+                "lng": -4.4284985
+            }
+        },
+        {
+            "province": "Ouarzazate",
+            "location": {
+                "lat": 30.9335436,
+                "lng": -6.937016
+            }
+        },
+        {
+            "province": "Midelt",
+            "location": {
+                "lat": 32.6799423,
+                "lng": -4.7329268
+            }
+        },
+        {
+            "province": "Tinghir",
+            "location": {
+                "lat": 31.5204633,
+                "lng": -5.5302337
+            }
+        },
+        {
+            "province": "Zagora",
+            "location": {
+                "lat": 30.34589979999999,
+                "lng": -5.8406587
+            }
+        }
+    ],
+    "Souss-Massa": [
+        {
+            "province": "​Agadir Ida-Ou-Tanane",
+            "location": {
+                "lat": 30.6427604,
+                "lng": -9.456155
+            }
+        },
+        {
+            "province": "Inezgane-Aït Melloul",
+            "location": {
+                "lat": 30.3509098,
+                "lng": -9.389510999999999
+            }
+        },
+        {
+            "province": "Chtouka-Aït Baha",
+            "location": {
+                "lat": 30.1072422,
+                "lng": -9.2785583
+            }
+        },
+        {
+            "province": "Taroudannt",
+            "location": {
+                "lat": 30.4727126,
+                "lng": -8.8748765
+            }
+        },
+        {
+            "province": "Tiznit",
+            "location": {
+                "lat": 29.693392,
+                "lng": -9.732156999999999
+            }
+        },
+        {
+            "province": "Tata",
+            "location": {
+                "lat": 29.750877,
+                "lng": -7.975634299999999
+            }
+        }
+    ],
+    "Guelmim-Oued Noun": [
+        {
+            "province": "Guelmim",
+            "location": {
+                "lat": 28.9883659,
+                "lng": -10.0527498
+            }
+        },
+        {
+            "province": "Assa-Zag",
+            "location": {
+                "lat": 28.1402395,
+                "lng": -9.7232673
+            }
+        },
+        {
+            "province": "Tan-Tan",
+            "location": {
+                "lat": 28.4380408,
+                "lng": -11.0987374
+            }
+        },
+        {
+            "province": "Sidi Ifni",
+            "location": {
+                "lat": 29.3701124,
+                "lng": -10.1759285
+            }
+        }
+    ],
+    "Laâyoune-Sakia El Hamra": [
+        {
+            "province": "Laâyoune",
+            "location": {
+                "lat": 27.1500384,
+                "lng": -13.1990758
+            }
+        },
+        {
+            "province": "Boujdour",
+            "location": {
+                "lat": 26.1252493,
+                "lng": -14.4847347
+            }
+        },
+        {
+            "province": "Tarfaya",
+            "location": {
+                "lat": 27.9375382,
+                "lng": -12.9262851
+            }
+        },
+        {
+            "province": "Es-Semara",
+            "location": {
+                "lat": 26.741856,
+                "lng": -11.6783671
+            }
+        }
+    ],
+    "Dakhla-Oued Ed Dahab": [
+        {
+            "province": "Oued Ed-Dahab",
+            "location": {
+                "lat": 22.7337892,
+                "lng": -14.2861116
+            }
+        },
+        {
+            "province": "Aousserd",
+            "location": {
+                "lat": 22.5521538,
+                "lng": -14.3297353
+            }
+        }
+    ]
+}

@@ -1,0 +1,6784 @@
+{
+    "Agadir Ida Ou Tanane": [
+        {
+            "CS": "Taghazout",
+            "location": {
+                "lat": 30.5453374,
+                "lng": -9.708985799999999
+            }
+        },
+        {
+            "CS": "Agadir",
+            "location": {
+                "lat": 30.4277547,
+                "lng": -9.5981072
+            }
+        },
+        {
+            "CS": "Tamri",
+            "location": {
+                "lat": 30.6828762,
+                "lng": -9.8348146
+            }
+        },
+        {
+            "CS": "Immouzzer",
+            "location": {
+                "lat": 30.6726508,
+                "lng": -9.480813
+            }
+        },
+        {
+            "CS": "Drargua",
+            "location": {
+                "lat": 30.38179389999999,
+                "lng": -9.475603
+            }
+        },
+        {
+            "CS": "Aourir",
+            "location": {
+                "lat": 30.511343,
+                "lng": -9.653624599999999
+            }
+        },
+        {
+            "CS": "Amskroud",
+            "location": {
+                "lat": 30.5292216,
+                "lng": -9.331242
+            }
+        }
+    ],
+    "Al Haouz": [
+        {
+            "CS": "Faska S.Daoud",
+            "location": {
+                "lat": 31.6336108,
+                "lng": -7.643910999999999
+            }
+        },
+        {
+            "CS": "Aghouatim-Tadrara",
+            "location": {
+                "lat": 33.0544913,
+                "lng": -2.000388500000001
+            }
+        },
+        {
+            "CS": "Rhmate",
+            "location": {
+                "lat": 31.4747098,
+                "lng": -7.882121600000001
+            }
+        },
+        {
+            "CS": "S.Abdellah Ghiat",
+            "location": {
+                "lat": 31.5211676,
+                "lng": -7.8531153
+            }
+        },
+        {
+            "CS": "Azgour - Anougal",
+            "location": {
+                "lat": 31.1638982,
+                "lng": -8.2558252
+            }
+        },
+        {
+            "CS": "Amizmiz",
+            "location": {
+                "lat": 31.2185473,
+                "lng": -8.2404397
+            }
+        },
+        {
+            "CS": "Asni",
+            "location": {
+                "lat": 31.2422527,
+                "lng": -7.986586999999999
+            }
+        },
+        {
+            "CS": "Moulay Brahim",
+            "location": {
+                "lat": 31.2854409,
+                "lng": -7.968822199999999
+            }
+        },
+        {
+            "CS": "Touama",
+            "location": {
+                "lat": 31.5319623,
+                "lng": -7.484122199999999
+            }
+        },
+        {
+            "CS": "Tidili Mesfioua",
+            "location": {
+                "lat": 31.4627186,
+                "lng": -7.608089199999998
+            }
+        },
+        {
+            "CS": "Tameslohte",
+            "location": {
+                "lat": 31.49451089999999,
+                "lng": -8.0983624
+            }
+        },
+        {
+            "CS": "Sti Fadma",
+            "location": {
+                "lat": 31.2258103,
+                "lng": -7.6758373
+            }
+        },
+        {
+            "CS": "Ourika",
+            "location": {
+                "lat": 31.3745358,
+                "lng": -7.7905758
+            }
+        },
+        {
+            "CS": "Tlat N'yaaqoub",
+            "location": {
+                "lat": 30.9890101,
+                "lng": -8.1897211
+            }
+        },
+        {
+            "CS": "Ouirgane",
+            "location": {
+                "lat": 31.1736005,
+                "lng": -8.0751645
+            }
+        },
+        {
+            "CS": "Ouazguita",
+            "location": {
+                "lat": 31.352209,
+                "lng": -8.130726000000001
+            }
+        },
+        {
+            "CS": "Guedmioua",
+            "location": "NaN"
+        },
+        {
+            "CS": "Amghras",
+            "location": {
+                "lat": 31.2100948,
+                "lng": -8.1837123
+            }
+        },
+        {
+            "CS": "Zerkten",
+            "location": {
+                "lat": 31.43747729999999,
+                "lng": -7.406030599999998
+            }
+        },
+        {
+            "CS": "Tazart",
+            "location": {
+                "lat": 31.6597023,
+                "lng": -7.4097473
+            }
+        },
+        {
+            "CS": "Tighedouine",
+            "location": {
+                "lat": 31.42803109999999,
+                "lng": -7.5254012
+            }
+        },
+        {
+            "CS": "Abadou",
+            "location": {
+                "lat": 31.4599979,
+                "lng": -7.2858562
+            }
+        },
+        {
+            "CS": "Tahannaout",
+            "location": {
+                "lat": 31.3526424,
+                "lng": -7.950432699999999
+            }
+        },
+        {
+            "CS": "Ait Ourir",
+            "location": {
+                "lat": 31.5634338,
+                "lng": -7.6710889
+            }
+        }
+    ],
+    "Al Hoceima": [
+        {
+            "CS": "Bni Hadifa",
+            "location": {
+                "lat": 35.0206017,
+                "lng": -4.1436993
+            }
+        },
+        {
+            "CS": "Tabarrant",
+            "location": {
+                "lat": 50.4353643,
+                "lng": 4.5088173
+            }
+        },
+        {
+            "CS": "Ketama",
+            "location": {
+                "lat": 34.9166669,
+                "lng": -4.566667
+            }
+        },
+        {
+            "CS": "Issaguen",
+            "location": {
+                "lat": 34.918753,
+                "lng": -4.5688906
+            }
+        },
+        {
+            "CS": "Ikaouen",
+            "location": {
+                "lat": 34.7522246,
+                "lng": -4.6572868
+            }
+        },
+        {
+            "CS": "Sidi Boutmim",
+            "location": {
+                "lat": 34.9481177,
+                "lng": -4.2910393
+            }
+        },
+        {
+            "CS": "Bni Bounsar",
+            "location": {
+                "lat": 34.8436232,
+                "lng": -4.422710299999999
+            }
+        },
+        {
+            "CS": "Bni Ammart",
+            "location": {
+                "lat": 34.8115488,
+                "lng": -4.1596946
+            }
+        },
+        {
+            "CS": "Rouadi",
+            "location": {
+                "lat": 35.1404122,
+                "lng": -4.1347441
+            }
+        },
+        {
+            "CS": "Nekkour",
+            "location": {
+                "lat": 35.0584517,
+                "lng": -3.8273673
+            }
+        },
+        {
+            "CS": "Izemmouren",
+            "location": {
+                "lat": 35.1862001,
+                "lng": -3.9967727
+            }
+        },
+        {
+            "CS": "Imrabten",
+            "location": {
+                "lat": 35.0682043,
+                "lng": -3.9521382
+            }
+        },
+        {
+            "CS": "Bni Abdellah",
+            "location": {
+                "lat": 35.0573348,
+                "lng": -4.0733783
+            }
+        },
+        {
+            "CS": "Arbaa Taourirt",
+            "location": {
+                "lat": 34.9317581,
+                "lng": -3.832453999999999
+            }
+        },
+        {
+            "CS": "Ait Yous.Ou Ali",
+            "location": {
+                "lat": 31.791702,
+                "lng": -7.092619999999999
+            }
+        },
+        {
+            "CS": "Bni Boufrah",
+            "location": {
+                "lat": 35.116079,
+                "lng": -4.315429
+            }
+        },
+        {
+            "CS": "B.Gmil Mestassa",
+            "location": {
+                "lat": 35.0873904,
+                "lng": -4.3937791
+            }
+        },
+        {
+            "CS": "Ajdir",
+            "location": {
+                "lat": 35.2013284,
+                "lng": -3.9113634
+            }
+        },
+        {
+            "CS": "Targuist",
+            "location": {
+                "lat": 34.9432203,
+                "lng": -4.3128549
+            }
+        },
+        {
+            "CS": "Imzouren",
+            "location": {
+                "lat": 35.1374021,
+                "lng": -3.8502617
+            }
+        },
+        {
+            "CS": "Bni Bouayach",
+            "location": {
+                "lat": 35.1019375,
+                "lng": -3.8426291
+            }
+        },
+        {
+            "CS": "Al Hoceima",
+            "location": {
+                "lat": 35.2445589,
+                "lng": -3.9317468
+            }
+        }
+    ],
+    "Aousserd": [
+        {
+            "CS": "Bir Gandouz",
+            "location": {
+                "lat": 22.0547374,
+                "lng": -16.7500025
+            }
+        },
+        {
+            "CS": "Aousserd",
+            "location": {
+                "lat": 22.5521538,
+                "lng": -14.3297353
+            }
+        }
+    ],
+    "Assa-zag": [
+        {
+            "CS": "Labouirat",
+            "location": {
+                "lat": 32.2504245,
+                "lng": -8.6634964
+            }
+        },
+        {
+            "CS": "Al Mahbass",
+            "location": {
+                "lat": 27.4049579,
+                "lng": -9.0488165
+            }
+        },
+        {
+            "CS": "Touizgui",
+            "location": {
+                "lat": 28.4157085,
+                "lng": -9.218760999999999
+            }
+        },
+        {
+            "CS": "Aouint Lahna",
+            "location": {
+                "lat": 28.4870662,
+                "lng": -9.8487683
+            }
+        },
+        {
+            "CS": "A.Yghomane",
+            "location": {
+                "lat": 28.499507,
+                "lng": -10.5267991
+            }
+        },
+        {
+            "CS": "Zag",
+            "location": {
+                "lat": 28.0250868,
+                "lng": -9.295191599999999
+            }
+        },
+        {
+            "CS": "Assa",
+            "location": {
+                "lat": 28.6089376,
+                "lng": -9.436711599999999
+            }
+        }
+    ],
+    "Azilal": [
+        {
+            "CS": "Zaouiat Ahansal",
+            "location": {
+                "lat": 31.8331255,
+                "lng": -6.104333599999999
+            }
+        },
+        {
+            "CS": "Tilougguite",
+            "location": {
+                "lat": 32.0300368,
+                "lng": -6.207071699999999
+            }
+        },
+        {
+            "CS": "Tagleft",
+            "location": {
+                "lat": 32.2391441,
+                "lng": -6.1235425
+            }
+        },
+        {
+            "CS": "Ouaouizeght",
+            "location": {
+                "lat": 32.1573689,
+                "lng": -6.3491975
+            }
+        },
+        {
+            "CS": "Anergui",
+            "location": {
+                "lat": 32.0657275,
+                "lng": -5.9343664
+            }
+        },
+        {
+            "CS": "Afourar",
+            "location": {
+                "lat": 32.216667,
+                "lng": -6.5
+            }
+        },
+        {
+            "CS": "Ouaoula",
+            "location": {
+                "lat": 31.8652881,
+                "lng": -6.758098100000001
+            }
+        },
+        {
+            "CS": "Iwariden-Ait Manna",
+            "location": "NaN"
+        },
+        {
+            "CS": "Imi-Nifri",
+            "location": {
+                "lat": 31.7243142,
+                "lng": -6.9717486
+            }
+        },
+        {
+            "CS": "Fetouaka",
+            "location": {
+                "lat": 31.72727579999999,
+                "lng": -7.195191299999999
+            }
+        },
+        {
+            "CS": "Ait Tamlil",
+            "location": {
+                "lat": 31.4822916,
+                "lng": -6.94876
+            }
+        },
+        {
+            "CS": "Tanant",
+            "location": {
+                "lat": 31.8632981,
+                "lng": -6.9397002
+            }
+        },
+        {
+            "CS": "Ait Taguella",
+            "location": {
+                "lat": 32.014226,
+                "lng": -6.7189627
+            }
+        },
+        {
+            "CS": "Foum Jemaa",
+            "location": {
+                "lat": 31.9652416,
+                "lng": -6.9907197
+            }
+        },
+        {
+            "CS": "Bzou",
+            "location": {
+                "lat": 32.0860889,
+                "lng": -7.0552218
+            }
+        },
+        {
+            "CS": "Bni Ayat",
+            "location": {
+                "lat": 32.2203367,
+                "lng": -6.582342700000001
+            }
+        },
+        {
+            "CS": "Ait Aatab",
+            "location": {
+                "lat": 32.1093373,
+                "lng": -6.705254099999999
+            }
+        },
+        {
+            "CS": "Tabant",
+            "location": {
+                "lat": 31.6584818,
+                "lng": -6.4103979
+            }
+        },
+        {
+            "CS": "Ait M'hamed",
+            "location": {
+                "lat": 31.87812599999999,
+                "lng": -6.4703256
+            }
+        },
+        {
+            "CS": "Agoudid",
+            "location": {
+                "lat": 30.0607596,
+                "lng": -8.5277802
+            }
+        },
+        {
+            "CS": "Demnate",
+            "location": {
+                "lat": 31.7320849,
+                "lng": -7.011458999999999
+            }
+        },
+        {
+            "CS": "Azilal",
+            "location": {
+                "lat": 31.9649107,
+                "lng": -6.5730004
+            }
+        }
+    ],
+    "Beni Mellal": [
+        {
+            "CS": "Ouled Said Loued",
+            "location": {
+                "lat": 32.54274520000001,
+                "lng": -6.373138399999999
+            }
+        },
+        {
+            "CS": "Ait Rbaa",
+            "location": {
+                "lat": 31.5511236,
+                "lng": -7.149399799999999
+            }
+        },
+        {
+            "CS": "Tizi N'isly",
+            "location": {
+                "lat": 32.4659619,
+                "lng": -5.7734377
+            }
+        },
+        {
+            "CS": "Taghzirt",
+            "location": {
+                "lat": 32.4358139,
+                "lng": -6.2004383
+            }
+        },
+        {
+            "CS": "Foum El Anceur",
+            "location": {
+                "lat": 32.3735609,
+                "lng": -6.2614927
+            }
+        },
+        {
+            "CS": "Ait Ouirra",
+            "location": {
+                "lat": 32.5061111,
+                "lng": -6.029444400000001
+            }
+        },
+        {
+            "CS": "Aghbala",
+            "location": {
+                "lat": 32.481733,
+                "lng": -5.6431662
+            }
+        },
+        {
+            "CS": "A.Oum El Bekht",
+            "location": {
+                "lat": 32.6624273,
+                "lng": -5.8821428
+            }
+        },
+        {
+            "CS": "Sidi Jaber",
+            "location": {
+                "lat": 32.3794719,
+                "lng": -6.479652799999999
+            }
+        },
+        {
+            "CS": "Ouled Yaich",
+            "location": {
+                "lat": 32.4294794,
+                "lng": -6.3279244
+            }
+        },
+        {
+            "CS": "Ouled Mbarek",
+            "location": {
+                "lat": 32.2762871,
+                "lng": -6.4556713
+            }
+        },
+        {
+            "CS": "Zaouiat Cheikh",
+            "location": {
+                "lat": 32.6438724,
+                "lng": -5.9171977
+            }
+        },
+        {
+            "CS": "Kasba Tadla",
+            "location": {
+                "lat": 32.5958283,
+                "lng": -6.2694608
+            }
+        },
+        {
+            "CS": "El Ksiba",
+            "location": {
+                "lat": 32.565169,
+                "lng": -6.032977499999999
+            }
+        },
+        {
+            "CS": "Beni Mellal",
+            "location": {
+                "lat": 32.342443,
+                "lng": -6.375799
+            }
+        }
+    ],
+    "Benslimane": [
+        {
+            "CS": "El Mansouria",
+            "location": {
+                "lat": 33.7395856,
+                "lng": -7.291589999999998
+            }
+        },
+        {
+            "CS": "Sidi Bettach",
+            "location": {
+                "lat": 33.5684821,
+                "lng": -6.8914024
+            }
+        },
+        {
+            "CS": "Cherrat",
+            "location": {
+                "lat": 33.6011261,
+                "lng": -7.645299800000001
+            }
+        },
+        {
+            "CS": "Ziaida",
+            "location": {
+                "lat": 33.492778,
+                "lng": -7.103611
+            }
+        },
+        {
+            "CS": "Mdakra",
+            "location": {
+                "lat": 33.580655,
+                "lng": -7.562646
+            }
+        },
+        {
+            "CS": "Fdalate",
+            "location": {
+                "lat": 33.5934793,
+                "lng": -7.279242099999998
+            }
+        },
+        {
+            "CS": "Ahlaf",
+            "location": {
+                "lat": 33.2871033,
+                "lng": -7.2046229
+            }
+        },
+        {
+            "CS": "Bouznika",
+            "location": {
+                "lat": 33.7734338,
+                "lng": -7.1599419
+            }
+        },
+        {
+            "CS": "Benslimane",
+            "location": {
+                "lat": 33.6189698,
+                "lng": -7.1305536
+            }
+        }
+    ],
+    "Berkane": [
+        {
+            "CS": "Tafoughalt",
+            "location": {
+                "lat": 34.806871,
+                "lng": -2.4122257
+            }
+        },
+        {
+            "CS": "Chouihiya",
+            "location": {
+                "lat": 34.87159219999999,
+                "lng": -2.6176868
+            }
+        },
+        {
+            "CS": "Bni Ourimeche",
+            "location": {
+                "lat": 34.8,
+                "lng": -2.2166667
+            }
+        },
+        {
+            "CS": "Bni Atig",
+            "location": {
+                "lat": 34.9328406,
+                "lng": -2.3396245
+            }
+        },
+        {
+            "CS": "Madagh",
+            "location": {
+                "lat": 35.0136099,
+                "lng": -2.3394209
+            }
+        },
+        {
+            "CS": "Laatamna",
+            "location": {
+                "lat": 35.0073385,
+                "lng": -2.2335066
+            }
+        },
+        {
+            "CS": "Aghbal",
+            "location": {
+                "lat": 34.93354960000001,
+                "lng": -2.1241583
+            }
+        },
+        {
+            "CS": "S.Slimane Echcherraa",
+            "location": {
+                "lat": 34.9086587,
+                "lng": -2.3542193
+            }
+        },
+        {
+            "CS": "Saidia",
+            "location": {
+                "lat": 35.0998833,
+                "lng": -2.2876645
+            }
+        },
+        {
+            "CS": "Berkane",
+            "location": {
+                "lat": 34.9177281,
+                "lng": -2.3123031
+            }
+        },
+        {
+            "CS": "Aklim",
+            "location": {
+                "lat": 34.8861599,
+                "lng": -2.514842
+            }
+        },
+        {
+            "CS": "Ain  Erreggada",
+            "location": {
+                "lat": 34.9344195,
+                "lng": -2.2298164
+            }
+        },
+        {
+            "CS": "Ahfir",
+            "location": {
+                "lat": 34.9518203,
+                "lng": -2.1033017
+            }
+        }
+    ],
+    "Berrechid": [
+        {
+            "CS": "Deroua",
+            "location": {
+                "lat": 33.4160634,
+                "lng": -7.5370811
+            }
+        },
+        {
+            "CS": "Oulad Ziyane",
+            "location": {
+                "lat": 33.5795237,
+                "lng": -7.582962200000001
+            }
+        },
+        {
+            "CS": "Mdakra Janoubia",
+            "location": "NaN"
+        },
+        {
+            "CS": "Riah",
+            "location": {
+                "lat": 33.54034,
+                "lng": -7.676642999999999
+            }
+        },
+        {
+            "CS": "Jaqma",
+            "location": {
+                "lat": 33.2920628,
+                "lng": -7.440163699999999
+            }
+        },
+        {
+            "CS": "Soualem Trifiya",
+            "location": {
+                "lat": 33.4179118,
+                "lng": -7.859235900000001
+            }
+        },
+        {
+            "CS": "Sidi El Mekki",
+            "location": {
+                "lat": 33.2118937,
+                "lng": -7.713157700000001
+            }
+        },
+        {
+            "CS": "Berrechid",
+            "location": {
+                "lat": 33.268687,
+                "lng": -7.5843171
+            }
+        },
+        {
+            "CS": "Od Harriz Gharbia",
+            "location": {
+                "lat": 30.8753556,
+                "lng": 31.03351
+            }
+        },
+        {
+            "CS": "Od Abbou El Haddami",
+            "location": {
+                "lat": 33.1310017,
+                "lng": -8.0056107
+            }
+        },
+        {
+            "CS": "Had Soualem",
+            "location": {
+                "lat": 33.42125559999999,
+                "lng": -7.8469981
+            }
+        },
+        {
+            "CS": "Sidi Rahal Chatai",
+            "location": {
+                "lat": 33.4774313,
+                "lng": -7.945665899999999
+            }
+        },
+        {
+            "CS": "Oulad Abbou",
+            "location": {
+                "lat": 33.1155425,
+                "lng": -7.9347713
+            }
+        },
+        {
+            "CS": "El Gara",
+            "location": {
+                "lat": 33.2787909,
+                "lng": -7.2275336
+            }
+        }
+    ],
+    "Boujdour": [
+        {
+            "CS": "Lamssid",
+            "location": {
+                "lat": 26.5412534,
+                "lng": -13.8404655
+            }
+        },
+        {
+            "CS": "Jraifia",
+            "location": {
+                "lat": 22.54558,
+                "lng": -11.77535
+            }
+        },
+        {
+            "CS": "Gueltat Zemmour",
+            "location": {
+                "lat": 25.1434095,
+                "lng": -12.3714463
+            }
+        },
+        {
+            "CS": "Boujdour",
+            "location": {
+                "lat": 26.1252493,
+                "lng": -14.4847347
+            }
+        }
+    ],
+    "Boulemane": [
+        {
+            "CS": "Ouled Ali",
+            "location": {
+                "lat": 30.35942,
+                "lng": -9.0059861
+            }
+        },
+        {
+            "CS": "Tendite",
+            "location": {
+                "lat": 33.6634197,
+                "lng": -3.6220346
+            }
+        },
+        {
+            "CS": "Outat El Haj-rural",
+            "location": {
+                "lat": 33.3433415,
+                "lng": -3.7282769
+            }
+        },
+        {
+            "CS": "Missour-rural",
+            "location": {
+                "lat": 38.552405,
+                "lng": -92.203119
+            }
+        },
+        {
+            "CS": "Ksabi",
+            "location": {
+                "lat": 32.8272804,
+                "lng": -4.4001819
+            }
+        },
+        {
+            "CS": "Skoura",
+            "location": {
+                "lat": 31.0604911,
+                "lng": -6.555654
+            }
+        },
+        {
+            "CS": "El Mers",
+            "location": {
+                "lat": 33.4450106,
+                "lng": -4.447153399999999
+            }
+        },
+        {
+            "CS": "Ait El Mane",
+            "location": {
+                "lat": 33.3964048,
+                "lng": -3.5832161
+            }
+        },
+        {
+            "CS": "Marmoucha",
+            "location": {
+                "lat": 33.4713821,
+                "lng": -4.2946726
+            }
+        },
+        {
+            "CS": "Guigou",
+            "location": {
+                "lat": 33.3865187,
+                "lng": -4.8339175
+            }
+        },
+        {
+            "CS": "Serghina",
+            "location": {
+                "lat": 33.3482572,
+                "lng": -4.4406595
+            }
+        },
+        {
+            "CS": "Boulemane-rural",
+            "location": {
+                "lat": 33.3625159,
+                "lng": -4.7303397
+            }
+        },
+        {
+            "CS": "Outate El Haj",
+            "location": {
+                "lat": 33.3433415,
+                "lng": -3.7282769
+            }
+        },
+        {
+            "CS": "Missour",
+            "location": {
+                "lat": 33.0460809,
+                "lng": -3.9954969
+            }
+        },
+        {
+            "CS": "Imouzer Marmoucha",
+            "location": {
+                "lat": 33.4713821,
+                "lng": -4.2946726
+            }
+        },
+        {
+            "CS": "Boulmane",
+            "location": {
+                "lat": 33.3625159,
+                "lng": -4.7303397
+            }
+        }
+    ],
+    "Casablanca": [
+        {
+            "CS": "My RACHID",
+            "location": {
+                "lat": 33.5350316,
+                "lng": -7.5138947
+            }
+        },
+        {
+            "CS": "Hay Hassani",
+            "location": {
+                "lat": 33.5708827,
+                "lng": -7.677872499999999
+            }
+        },
+        {
+            "CS": "Sidi Bernoussi",
+            "location": {
+                "lat": 33.6090338,
+                "lng": -7.4868283
+            }
+        },
+        {
+            "CS": "Sidi Othmane",
+            "location": {
+                "lat": 33.5566486,
+                "lng": -7.5590911
+            }
+        },
+        {
+            "CS": "Machouar  Casablanca",
+            "location": {
+                "lat": 33.5737787,
+                "lng": -7.6018954
+            }
+        },
+        {
+            "CS": "Sbata",
+            "location": {
+                "lat": 33.5402471,
+                "lng": -7.565350199999999
+            }
+        },
+        {
+            "CS": "Ben Msick",
+            "location": {
+                "lat": 33.5559525,
+                "lng": -7.5816073
+            }
+        },
+        {
+            "CS": "Sidi Moumen",
+            "location": {
+                "lat": 33.5848033,
+                "lng": -7.5193093
+            }
+        },
+        {
+            "CS": "Ain Chock",
+            "location": {
+                "lat": 33.5338589,
+                "lng": -7.5831493
+            }
+        },
+        {
+            "CS": "Skhour Sawda",
+            "location": {
+                "lat": 32.4801697,
+                "lng": -7.916414499999999
+            }
+        },
+        {
+            "CS": "Hay Mohammadi",
+            "location": {
+                "lat": 33.5903413,
+                "lng": -7.565350199999999
+            }
+        },
+        {
+            "CS": "Ain Sebaa",
+            "location": {
+                "lat": 33.6005081,
+                "lng": -7.535555500000001
+            }
+        },
+        {
+            "CS": "Mers Sultan",
+            "location": {
+                "lat": 33.5667522,
+                "lng": -7.587027099999999
+            }
+        },
+        {
+            "CS": "Al Fida",
+            "location": {
+                "lat": 33.5657532,
+                "lng": -7.6032892
+            }
+        },
+        {
+            "CS": "S. Belyout",
+            "location": {
+                "lat": 33.5948881,
+                "lng": -7.6264608
+            }
+        },
+        {
+            "CS": "El Maarif",
+            "location": {
+                "lat": 33.567033,
+                "lng": -7.6276895
+            }
+        },
+        {
+            "CS": "Anfa",
+            "location": {
+                "lat": 33.5729327,
+                "lng": -7.622266499999999
+            }
+        }
+    ],
+    "Chefchaouen": [
+        {
+            "CS": "Bni Rzine",
+            "location": {
+                "lat": 35.008981,
+                "lng": -4.7264594
+            }
+        },
+        {
+            "CS": "Oued Malha",
+            "location": {
+                "lat": 34.9205146,
+                "lng": -5.0468584
+            }
+        },
+        {
+            "CS": "Bni Ahmed",
+            "location": {
+                "lat": 34.8243552,
+                "lng": -5.109336
+            }
+        },
+        {
+            "CS": "Talambote",
+            "location": {
+                "lat": 35.2500804,
+                "lng": -5.1831442
+            }
+        },
+        {
+            "CS": "Kaa asrass",
+            "location": {
+                "lat": 35.4170225,
+                "lng": -5.0703194
+            }
+        },
+        {
+            "CS": "Bou Ahmed",
+            "location": {
+                "lat": 32.5,
+                "lng": -8.65
+            }
+        },
+        {
+            "CS": "Assifane",
+            "location": {
+                "lat": 30.3576143,
+                "lng": -8.240898099999999
+            }
+        },
+        {
+            "CS": "Bni Mansour",
+            "location": {
+                "lat": 35.1584557,
+                "lng": -4.9120528
+            }
+        },
+        {
+            "CS": "Tanaqoub",
+            "location": {
+                "lat": 35.1048745,
+                "lng": -5.4574209
+            }
+        },
+        {
+            "CS": "Derdara",
+            "location": {
+                "lat": 35.1095172,
+                "lng": -5.285424
+            }
+        },
+        {
+            "CS": "Fifi",
+            "location": {
+                "lat": 34.9458495,
+                "lng": -5.2442882
+            }
+        },
+        {
+            "CS": "Bni Darkoul",
+            "location": {
+                "lat": 35.055726,
+                "lng": -5.0663752
+            }
+        },
+        {
+            "CS": "Bab Taza",
+            "location": {
+                "lat": 35.0625233,
+                "lng": -5.1979641
+            }
+        },
+        {
+            "CS": "Tamorot",
+            "location": {
+                "lat": 34.937516,
+                "lng": -4.7788675
+            }
+        },
+        {
+            "CS": "Jebha",
+            "location": {
+                "lat": 35.2035321,
+                "lng": -4.664410699999999
+            }
+        },
+        {
+            "CS": "Iounane",
+            "location": {
+                "lat": 35.0309191,
+                "lng": -4.8151296
+            }
+        },
+        {
+            "CS": "Bab Berred",
+            "location": {
+                "lat": 34.9983561,
+                "lng": -4.890968099999999
+            }
+        },
+        {
+            "CS": "Chefchaouen",
+            "location": {
+                "lat": 35.168796,
+                "lng": -5.268364099999999
+            }
+        }
+    ],
+    "Chichaoua": [
+        {
+            "CS": "Saidate",
+            "location": {
+                "lat": 31.3410593,
+                "lng": -8.7068269
+            }
+        },
+        {
+            "CS": "Taouloukoult",
+            "location": {
+                "lat": 31.2219543,
+                "lng": -9.0736964
+            }
+        },
+        {
+            "CS": "Mtouga",
+            "location": {
+                "lat": 31.5572177,
+                "lng": -8.2289882
+            }
+        },
+        {
+            "CS": "Ichamraren",
+            "location": {
+                "lat": 31.0965413,
+                "lng": -9.168450199999999
+            }
+        },
+        {
+            "CS": "M'Zouda-Zaouia Annhila",
+            "location": {
+                "lat": 31.2867914,
+                "lng": -8.5858382
+            }
+        },
+        {
+            "CS": "Frouga",
+            "location": {
+                "lat": 31.586529,
+                "lng": -8.042914999999999
+            }
+        },
+        {
+            "CS": "Douirane",
+            "location": {
+                "lat": 31.2122429,
+                "lng": -8.7749022
+            }
+        },
+        {
+            "CS": "Assif El Mal",
+            "location": {
+                "lat": 31.3088726,
+                "lng": -8.4780731
+            }
+        },
+        {
+            "CS": "Seksaoua",
+            "location": {
+                "lat": 31.6276789,
+                "lng": -8.067302
+            }
+        },
+        {
+            "CS": "Nfifa Od L'bour",
+            "location": {
+                "lat": 31.2596254,
+                "lng": -8.885733499999999
+            }
+        },
+        {
+            "CS": "Demsira",
+            "location": {
+                "lat": 30.8978964,
+                "lng": -9.0698948
+            }
+        },
+        {
+            "CS": "Ain Tazitounte-Irohalen",
+            "location": {
+                "lat": 31.1258373,
+                "lng": -8.9259142
+            }
+        },
+        {
+            "CS": "Sid Lmoukhtar",
+            "location": {
+                "lat": 31.5772691,
+                "lng": -9.0184183
+            }
+        },
+        {
+            "CS": "Lamzoudia",
+            "location": {
+                "lat": 31.633333,
+                "lng": -8
+            }
+        },
+        {
+            "CS": "Chichaoua-rural",
+            "location": {
+                "lat": 31.542785,
+                "lng": -8.760774999999999
+            }
+        },
+        {
+            "CS": "Ahdil",
+            "location": {
+                "lat": 31.542785,
+                "lng": -8.760774999999999
+            }
+        },
+        {
+            "CS": "Imintanoute",
+            "location": {
+                "lat": 31.1719751,
+                "lng": -8.8457977
+            }
+        },
+        {
+            "CS": "Chichaoua",
+            "location": {
+                "lat": 31.5383581,
+                "lng": -8.7646388
+            }
+        }
+    ],
+    "Chtouka Ait Baha": [
+        {
+            "CS": "Essafa",
+            "location": {
+                "lat": 32.0554201,
+                "lng": -7.4076048
+            }
+        },
+        {
+            "CS": "Sidi Bibi",
+            "location": {
+                "lat": 30.236651,
+                "lng": -9.5270232
+            }
+        },
+        {
+            "CS": "Imi Mqourn",
+            "location": {
+                "lat": 30.1645531,
+                "lng": -9.236989999999999
+            }
+        },
+        {
+            "CS": "Ait Amira",
+            "location": {
+                "lat": 30.1752667,
+                "lng": -9.4867182
+            }
+        },
+        {
+            "CS": "Massa",
+            "location": {
+                "lat": 30.0040871,
+                "lng": -9.636918999999999
+            }
+        },
+        {
+            "CS": "Inchaden",
+            "location": {
+                "lat": 30.1452325,
+                "lng": -9.5555266
+            }
+        },
+        {
+            "CS": "Belfaa",
+            "location": {
+                "lat": 30.0582436,
+                "lng": -9.561784699999999
+            }
+        },
+        {
+            "CS": "Ait Milk",
+            "location": {
+                "lat": 29.952715,
+                "lng": -9.3978386
+            }
+        },
+        {
+            "CS": "Tanalt",
+            "location": {
+                "lat": 29.7755232,
+                "lng": -9.1663731
+            }
+        },
+        {
+            "CS": "Ida Ougnidif",
+            "location": {
+                "lat": 29.8604197,
+                "lng": -9.0081584
+            }
+        },
+        {
+            "CS": "Ait Ouadrim",
+            "location": {
+                "lat": 30.4112763,
+                "lng": -9.5527366
+            }
+        },
+        {
+            "CS": "Ait Baha-rural",
+            "location": {
+                "lat": 30.176401,
+                "lng": -9.4967768
+            }
+        },
+        {
+            "CS": "Biougra",
+            "location": {
+                "lat": 30.2206575,
+                "lng": -9.3728585
+            }
+        },
+        {
+            "CS": "Ait Baha",
+            "location": {
+                "lat": 30.0688758,
+                "lng": -9.152534
+            }
+        }
+    ],
+    "Driouch": [
+        {
+            "CS": "Driouch-rural",
+            "location": {
+                "lat": 35.076545,
+                "lng": -3.5003454
+            }
+        },
+        {
+            "CS": "Bni Said",
+            "location": {
+                "lat": 37.0126353,
+                "lng": 6.5286196
+            }
+        },
+        {
+            "CS": "Amejjaou",
+            "location": {
+                "lat": 35.1741343,
+                "lng": -3.2508198
+            }
+        },
+        {
+            "CS": "Tazaghine",
+            "location": {
+                "lat": 34.8881044,
+                "lng": -2.3480527
+            }
+        },
+        {
+            "CS": "Ain Zohra",
+            "location": {
+                "lat": 34.6819076,
+                "lng": -3.523092
+            }
+        },
+        {
+            "CS": "Trougout",
+            "location": {
+                "lat": 35.1803487,
+                "lng": -3.7720815
+            }
+        },
+        {
+            "CS": "Temsamane",
+            "location": {
+                "lat": 35.1191749,
+                "lng": -3.6395141
+            }
+        },
+        {
+            "CS": "Ijermaouas",
+            "location": {
+                "lat": 35.0658211,
+                "lng": -3.6775362
+            }
+        },
+        {
+            "CS": "Bni Touzine",
+            "location": {
+                "lat": 35.7358164,
+                "lng": -5.843477699999999
+            }
+        },
+        {
+            "CS": "Tafersit",
+            "location": {
+                "lat": 35.0141434,
+                "lng": -3.566086
+            }
+        },
+        {
+            "CS": "Bni Oulichek",
+            "location": {
+                "lat": 35.050352,
+                "lng": -3.4548833
+            }
+        },
+        {
+            "CS": "Driouch",
+            "location": {
+                "lat": 34.9792528,
+                "lng": -3.398304
+            }
+        },
+        {
+            "CS": "Midar",
+            "location": {
+                "lat": 34.9326143,
+                "lng": -3.5306765
+            }
+        },
+        {
+            "CS": "Ben Taieb",
+            "location": {
+                "lat": 35.050352,
+                "lng": -3.4548833
+            }
+        }
+    ],
+    "El Hajeb": [
+        {
+            "CS": "Ait Yaazem",
+            "location": {
+                "lat": 33.7346768,
+                "lng": -5.5751538
+            }
+        },
+        {
+            "CS": "A.Taoujdate",
+            "location": {
+                "lat": 33.9403286,
+                "lng": -5.2084001
+            }
+        },
+        {
+            "CS": "Bni Mtir",
+            "location": {
+                "lat": 36.7418323,
+                "lng": 8.7357274
+            }
+        },
+        {
+            "CS": "Dir",
+            "location": {
+                "lat": 33.542953,
+                "lng": -7.688367999999999
+            }
+        },
+        {
+            "CS": "Laqsir",
+            "location": {
+                "lat": 33.8939381,
+                "lng": -5.2038341
+            }
+        },
+        {
+            "CS": "Bitit",
+            "location": {
+                "lat": 33.8370357,
+                "lng": -5.155312299999999
+            }
+        },
+        {
+            "CS": "Ait Boubidmane",
+            "location": {
+                "lat": 33.533333,
+                "lng": -7.583333
+            }
+        },
+        {
+            "CS": "Sebt Jahjouh",
+            "location": {
+                "lat": 33.7140801,
+                "lng": -5.6694606
+            }
+        },
+        {
+            "CS": "Sbaa Ayoun",
+            "location": {
+                "lat": 33.9053487,
+                "lng": -5.3756344
+            }
+        },
+        {
+            "CS": "El Hajeb",
+            "location": {
+                "lat": 33.685735,
+                "lng": -5.3677844
+            }
+        },
+        {
+            "CS": "Agourai",
+            "location": {
+                "lat": 33.6425383,
+                "lng": -5.587986
+            }
+        }
+    ],
+    "El Jadida": [
+        {
+            "CS": "El Jadida",
+            "location": {
+                "lat": 33.2316326,
+                "lng": -8.500711599999999
+            }
+        },
+        {
+            "CS": "Sidi Ali Ben Hamdouche",
+            "location": {
+                "lat": 33.286654,
+                "lng": -8.3266396
+            }
+        },
+        {
+            "CS": "Chtouka",
+            "location": {
+                "lat": 30.1072422,
+                "lng": -9.2785583
+            }
+        },
+        {
+            "CS": "Od Bouaziz Chamalia",
+            "location": "NaN"
+        },
+        {
+            "CS": "Saiss",
+            "location": {
+                "lat": 33.9362001,
+                "lng": -4.9714572
+            }
+        },
+        {
+            "CS": "Sidi Smail",
+            "location": {
+                "lat": 32.8285457,
+                "lng": -8.5116903
+            }
+        },
+        {
+            "CS": "Ouled Hamdane",
+            "location": {
+                "lat": 33.1040682,
+                "lng": -8.250696399999999
+            }
+        },
+        {
+            "CS": "Oulad Rahmoune",
+            "location": {
+                "lat": 33.2505997,
+                "lng": -8.3341697
+            }
+        },
+        {
+            "CS": "Ouled Frej",
+            "location": {
+                "lat": 32.9547248,
+                "lng": -8.216481
+            }
+        },
+        {
+            "CS": "Mettouh",
+            "location": {
+                "lat": 32.8812908,
+                "lng": -8.172782
+            }
+        },
+        {
+            "CS": "Ouled Hcine",
+            "location": {
+                "lat": 33.0677828,
+                "lng": -8.5104091
+            }
+        },
+        {
+            "CS": "Ouled Aissa",
+            "location": {
+                "lat": 36.8062375,
+                "lng": 3.8131189
+            }
+        },
+        {
+            "CS": "Od Bouaziz Janoubia",
+            "location": "NaN"
+        },
+        {
+            "CS": "Lamharza Laghdira",
+            "location": {
+                "lat": 33.4190992,
+                "lng": -8.0867016
+            }
+        },
+        {
+            "CS": "Haouzia",
+            "location": {
+                "lat": 33.2145598,
+                "lng": -8.4136249
+            }
+        },
+        {
+            "CS": "Bir Jdid",
+            "location": {
+                "lat": 33.3736523,
+                "lng": -8.000163299999999
+            }
+        },
+        {
+            "CS": "Azemmour",
+            "location": {
+                "lat": 33.286667,
+                "lng": -8.347178099999999
+            }
+        }
+    ],
+    "El Kelaa Des Sraghna": [
+        {
+            "CS": "Sidi Aissa",
+            "location": {
+                "lat": 35.885157,
+                "lng": 3.774373
+            }
+        },
+        {
+            "CS": "Od Bouali",
+            "location": {
+                "lat": 31.791702,
+                "lng": -7.092619999999999
+            }
+        },
+        {
+            "CS": "Ain Igli - Oulad Said",
+            "location": {
+                "lat": 31.583333,
+                "lng": -8.1
+            }
+        },
+        {
+            "CS": "Zemrane Charqia",
+            "location": {
+                "lat": 31.7567661,
+                "lng": -7.3732655
+            }
+        },
+        {
+            "CS": "Zemrane",
+            "location": {
+                "lat": 31.7567661,
+                "lng": -7.3732655
+            }
+        },
+        {
+            "CS": "Sidi Ahmed",
+            "location": {
+                "lat": 32.2079588,
+                "lng": -8.491106499999999
+            }
+        },
+        {
+            "CS": "Ouargui",
+            "location": {
+                "lat": 31.8167257,
+                "lng": -7.2167511
+            }
+        },
+        {
+            "CS": "Mzem",
+            "location": {
+                "lat": 32.0053951,
+                "lng": -7.1332456
+            }
+        },
+        {
+            "CS": "Jouala",
+            "location": {
+                "lat": 31.8875828,
+                "lng": -7.4423813
+            }
+        },
+        {
+            "CS": "Dzouz",
+            "location": {
+                "lat": 31.8904478,
+                "lng": -7.3138554
+            }
+        },
+        {
+            "CS": "Assahrij",
+            "location": "NaN"
+        },
+        {
+            "CS": "Tassaout",
+            "location": {
+                "lat": 32.149404,
+                "lng": -7.2777622
+            }
+        },
+        {
+            "CS": "Beni Ameur",
+            "location": {
+                "lat": 35.2064014,
+                "lng": -0.6192322
+            }
+        },
+        {
+            "CS": "Oulad Zarrad",
+            "location": {
+                "lat": 31.9324271,
+                "lng": -7.232419900000001
+            }
+        },
+        {
+            "CS": "Lounasda Od Yaacoub",
+            "location": {
+                "lat": 32.1319938,
+                "lng": -7.3408535
+            }
+        },
+        {
+            "CS": "Ahl El Ghaba",
+            "location": "NaN"
+        },
+        {
+            "CS": "Tamallalt",
+            "location": {
+                "lat": 31.8131975,
+                "lng": -7.5220167
+            }
+        },
+        {
+            "CS": "Sidi Rahal",
+            "location": {
+                "lat": 33.4774313,
+                "lng": -7.945665899999999
+            }
+        },
+        {
+            "CS": "Laattaouia",
+            "location": {
+                "lat": 31.8338338,
+                "lng": -7.3138554
+            }
+        },
+        {
+            "CS": "Kelaat Sraghna",
+            "location": {
+                "lat": 32.0550961,
+                "lng": -7.400287199999999
+            }
+        }
+    ],
+    "Errachidia": [
+        {
+            "CS": "Et-Taous",
+            "location": {
+                "lat": 30.9067715,
+                "lng": -3.9961348
+            }
+        },
+        {
+            "CS": "Melaab",
+            "location": {
+                "lat": 31.5810875,
+                "lng": -4.746639699999999
+            }
+        },
+        {
+            "CS": "Tadighoust",
+            "location": {
+                "lat": 31.8022507,
+                "lng": -4.9688589
+            }
+        },
+        {
+            "CS": "Gheris",
+            "location": {
+                "lat": 31.7166667,
+                "lng": -4.956944399999999
+            }
+        },
+        {
+            "CS": "Ferkla",
+            "location": {
+                "lat": 31.4847222,
+                "lng": -5.0363889
+            }
+        },
+        {
+            "CS": "Amellagou",
+            "location": {
+                "lat": 31.9980219,
+                "lng": -5.006545099999999
+            }
+        },
+        {
+            "CS": "Aghbalou N'kerdous",
+            "location": {
+                "lat": 31.7654514,
+                "lng": -5.3180926
+            }
+        },
+        {
+            "CS": "Sidi Ali",
+            "location": {
+                "lat": 30.661134,
+                "lng": -4.7174062
+            }
+        },
+        {
+            "CS": "Er-Rissani",
+            "location": {
+                "lat": 31.2798384,
+                "lng": -4.2589619
+            }
+        },
+        {
+            "CS": "Oued Naam",
+            "location": {
+                "lat": 31.94930859999999,
+                "lng": -3.6067054
+            }
+        },
+        {
+            "CS": "M'daghra-Lkheng",
+            "location": "NaN"
+        },
+        {
+            "CS": "Aoufous",
+            "location": {
+                "lat": 31.6890813,
+                "lng": -4.1788953
+            }
+        },
+        {
+            "CS": "Fezna-Arbaa Sebbah",
+            "location": {
+                "lat": 31.533333,
+                "lng": -4.466667
+            }
+        },
+        {
+            "CS": "Aarab Sebbah-Ziz",
+            "location": {
+                "lat": 31.4687915,
+                "lng": -4.2130128
+            }
+        },
+        {
+            "CS": "Tinejdad",
+            "location": {
+                "lat": 31.5128534,
+                "lng": -5.0234472
+            }
+        },
+        {
+            "CS": "My ALI CHRIF",
+            "location": {
+                "lat": 31.2798384,
+                "lng": -4.2589619
+            }
+        },
+        {
+            "CS": "Jorf",
+            "location": {
+                "lat": 31.488688,
+                "lng": -4.4014925
+            }
+        },
+        {
+            "CS": "Goulmima",
+            "location": {
+                "lat": 31.6891751,
+                "lng": -4.9574947
+            }
+        },
+        {
+            "CS": "Errachidia",
+            "location": {
+                "lat": 31.927236,
+                "lng": -4.4284985
+            }
+        },
+        {
+            "CS": "Boudnib",
+            "location": {
+                "lat": 31.9502403,
+                "lng": -3.609117
+            }
+        },
+        {
+            "CS": "Arfoud",
+            "location": {
+                "lat": 31.43663339999999,
+                "lng": -4.234383
+            }
+        }
+    ],
+    "Es Semara": [
+        {
+            "CS": "Haouza",
+            "location": {
+                "lat": 31.7731059,
+                "lng": -8.8678104
+            }
+        },
+        {
+            "CS": "Amgala",
+            "location": {
+                "lat": 26.2785781,
+                "lng": -11.1333322
+            }
+        },
+        {
+            "CS": "Es-Semara",
+            "location": {
+                "lat": 26.741856,
+                "lng": -11.6783671
+            }
+        }
+    ],
+    "Essaouira": [
+        {
+            "CS": "Tament",
+            "location": {
+                "lat": 41.0555308,
+                "lng": 28.9984729
+            }
+        },
+        {
+            "CS": "Adaghas",
+            "location": {
+                "lat": 31.3260982,
+                "lng": -9.6038655
+            }
+        },
+        {
+            "CS": "Tidzi",
+            "location": {
+                "lat": 30.9974551,
+                "lng": -7.417181099999999
+            }
+        },
+        {
+            "CS": "Smimou",
+            "location": {
+                "lat": 31.2122278,
+                "lng": -9.7093341
+            }
+        },
+        {
+            "CS": "Bizdad",
+            "location": {
+                "lat": 31.2754773,
+                "lng": -9.374246099999999
+            }
+        },
+        {
+            "CS": "Ida Ou Tghouma",
+            "location": "NaN"
+        },
+        {
+            "CS": "Argane",
+            "location": {
+                "lat": 31.6300392,
+                "lng": -8.0396996
+            }
+        },
+        {
+            "CS": "Regraga",
+            "location": {
+                "lat": 32.216667,
+                "lng": -7.233333
+            }
+        },
+        {
+            "CS": "Ounagha",
+            "location": {
+                "lat": 31.5301906,
+                "lng": -9.5478784
+            }
+        },
+        {
+            "CS": "Meskala",
+            "location": {
+                "lat": 31.3885962,
+                "lng": -9.415884499999999
+            }
+        },
+        {
+            "CS": "El Hanchane-rural",
+            "location": {
+                "lat": 31.5215049,
+                "lng": -9.436711599999999
+            }
+        },
+        {
+            "CS": "Chiadma Janoubia",
+            "location": {
+                "lat": 31.37004349999999,
+                "lng": -9.456155
+            }
+        },
+        {
+            "CS": "Chiadma Chamalia",
+            "location": "NaN"
+        },
+        {
+            "CS": "M'Ramer",
+            "location": {
+                "lat": 31.659574,
+                "lng": -9.162913099999999
+            }
+        },
+        {
+            "CS": "Aquermoud",
+            "location": {
+                "lat": 31.7700613,
+                "lng": -9.5601098
+            }
+        },
+        {
+            "CS": "Tamanar",
+            "location": {
+                "lat": 30.9991154,
+                "lng": -9.675904
+            }
+        },
+        {
+            "CS": "Talmest",
+            "location": {
+                "lat": 31.8127435,
+                "lng": -9.338176599999999
+            }
+        },
+        {
+            "CS": "Essaouira",
+            "location": {
+                "lat": 31.5084926,
+                "lng": -9.7595041
+            }
+        },
+        {
+            "CS": "El Hanchane",
+            "location": {
+                "lat": 31.5215049,
+                "lng": -9.436711599999999
+            }
+        },
+        {
+            "CS": "Ait Daoud",
+            "location": {
+                "lat": 31.0801955,
+                "lng": -9.3478861
+            }
+        }
+    ],
+    "Fahs-Anjra": [
+        {
+            "CS": "Taghramt",
+            "location": {
+                "lat": 35.7883462,
+                "lng": -5.4699173
+            }
+        },
+        {
+            "CS": "Ksar El Majaz",
+            "location": {
+                "lat": 35.8407037,
+                "lng": -5.5574319
+            }
+        },
+        {
+            "CS": "Jouamaa",
+            "location": {
+                "lat": 35.6484609,
+                "lng": -5.6694606
+            }
+        },
+        {
+            "CS": "Anjra",
+            "location": {
+                "lat": 35.7601992,
+                "lng": -5.6668306
+            }
+        },
+        {
+            "CS": "Mellousa",
+            "location": {
+                "lat": 35.733333,
+                "lng": -5.633332999999999
+            }
+        },
+        {
+            "CS": "Ksar Sghir",
+            "location": {
+                "lat": 35.8360447,
+                "lng": -5.556477699999999
+            }
+        },
+        {
+            "CS": "Al Bahraoyine",
+            "location": {
+                "lat": 35.796693,
+                "lng": -5.728084
+            }
+        }
+    ],
+    "Fes": [
+        {
+            "CS": "El Mariniyine",
+            "location": {
+                "lat": 30.1707269,
+                "lng": -9.2381583
+            }
+        },
+        {
+            "CS": "Zouagha",
+            "location": {
+                "lat": 34.0141803,
+                "lng": -5.036452199999999
+            }
+        },
+        {
+            "CS": "Sidi Harazem",
+            "location": {
+                "lat": 34.0260083,
+                "lng": -4.8805909
+            }
+        },
+        {
+            "CS": "Oulad Tayeb",
+            "location": {
+                "lat": 33.9602825,
+                "lng": -4.9948467
+            }
+        },
+        {
+            "CS": "Jnan El Ouard",
+            "location": {
+                "lat": 34.0548825,
+                "lng": -4.9539898
+            }
+        },
+        {
+            "CS": "Fes Medina",
+            "location": {
+                "lat": 34.0630813,
+                "lng": -4.9768757
+            }
+        },
+        {
+            "CS": "Saiss",
+            "location": {
+                "lat": 33.9362001,
+                "lng": -4.9714572
+            }
+        },
+        {
+            "CS": "Mechouar Fes Jdid",
+            "location": {
+                "lat": 34.0559976,
+                "lng": -4.998745899999999
+            }
+        },
+        {
+            "CS": "Agdal",
+            "location": {
+                "lat": 33.9933499,
+                "lng": -6.848500899999999
+            }
+        }
+    ],
+    "Figuig": [
+        {
+            "CS": "Tendrara",
+            "location": {
+                "lat": 33.0544913,
+                "lng": -2.000388500000001
+            }
+        },
+        {
+            "CS": "Bni Guil",
+            "location": {
+                "lat": 32.4769595,
+                "lng": -1.9418097
+            }
+        },
+        {
+            "CS": "Abbou Lakhal",
+            "location": "NaN"
+        },
+        {
+            "CS": "Talsint",
+            "location": {
+                "lat": 32.5384139,
+                "lng": -3.4422624
+            }
+        },
+        {
+            "CS": "Boumerieme",
+            "location": "NaN"
+        },
+        {
+            "CS": "Bouchaouene",
+            "location": {
+                "lat": 33.0946128,
+                "lng": -2.9355695
+            }
+        },
+        {
+            "CS": "Douimniaa",
+            "location": {
+                "lat": 31.791702,
+                "lng": -7.092619999999999
+            }
+        },
+        {
+            "CS": "Bouanane",
+            "location": {
+                "lat": 32.0364903,
+                "lng": -3.049421
+            }
+        },
+        {
+            "CS": "Bni Tadjite",
+            "location": {
+                "lat": 32.2917301,
+                "lng": -3.4649824
+            }
+        },
+        {
+            "CS": "Ain Chair",
+            "location": {
+                "lat": 32.20145,
+                "lng": -2.525522
+            }
+        },
+        {
+            "CS": "Figuig",
+            "location": {
+                "lat": 32.1092613,
+                "lng": -1.229806
+            }
+        },
+        {
+            "CS": "Bouarfa",
+            "location": {
+                "lat": 32.5275178,
+                "lng": -1.9734743
+            }
+        }
+    ],
+    "Fkih Ben Saleh": [
+        {
+            "CS": "Bni Moussa",
+            "location": {
+                "lat": 35.3875519,
+                "lng": -5.3618976
+            }
+        },
+        {
+            "CS": "Sidi Aissa",
+            "location": {
+                "lat": 35.885157,
+                "lng": 3.774373
+            }
+        },
+        {
+            "CS": "Bradia",
+            "location": {
+                "lat": 32.4500274,
+                "lng": -6.532977499999999
+            }
+        },
+        {
+            "CS": "Ouled Nacer",
+            "location": {
+                "lat": 31.9413267,
+                "lng": -7.102966899999999
+            }
+        },
+        {
+            "CS": "Had Boumoussa",
+            "location": {
+                "lat": 32.244247,
+                "lng": -6.9531225
+            }
+        },
+        {
+            "CS": "Dar Ould Zidouh",
+            "location": {
+                "lat": 32.3089716,
+                "lng": -6.9048148
+            }
+        },
+        {
+            "CS": "Bni Oukil",
+            "location": {
+                "lat": 35.0071281,
+                "lng": -3.3779454
+            }
+        },
+        {
+            "CS": "Bni Amir Charquia",
+            "location": {
+                "lat": 32.4424511,
+                "lng": -6.835099899999999
+            }
+        },
+        {
+            "CS": "Bni Amir",
+            "location": {
+                "lat": 32.5009216,
+                "lng": -6.6905458
+            }
+        },
+        {
+            "CS": "Ouled Zmam",
+            "location": {
+                "lat": 32.3683205,
+                "lng": -6.6932198
+            }
+        },
+        {
+            "CS": "S.Sebt Od Nemma",
+            "location": {
+                "lat": 32.2973704,
+                "lng": -6.7012424
+            }
+        },
+        {
+            "CS": "Oulad Ayad",
+            "location": {
+                "lat": 32.2018894,
+                "lng": -6.797592
+            }
+        },
+        {
+            "CS": "Fquih Ben Salah",
+            "location": {
+                "lat": 32.5009216,
+                "lng": -6.6905458
+            }
+        }
+    ],
+    "Guelmim": [
+        {
+            "CS": "Asrir",
+            "location": {
+                "lat": 28.9260957,
+                "lng": -9.9996125
+            }
+        },
+        {
+            "CS": "Kssabi",
+            "location": {
+                "lat": 32.8272804,
+                "lng": -4.4001819
+            }
+        },
+        {
+            "CS": "Labiar",
+            "location": {
+                "lat": 28.8381306,
+                "lng": -10.4263108
+            }
+        },
+        {
+            "CS": "Fask",
+            "location": {
+                "lat": 28.9903663,
+                "lng": -9.8320242
+            }
+        },
+        {
+            "CS": "Chati El Abied",
+            "location": "NaN"
+        },
+        {
+            "CS": "Taghjicht",
+            "location": {
+                "lat": 29.0568831,
+                "lng": -9.4283801
+            }
+        },
+        {
+            "CS": "Ifrane Atlas Saghir",
+            "location": {
+                "lat": 28.8801264,
+                "lng": -9.7232673
+            }
+        },
+        {
+            "CS": "Bouizakarne-rural",
+            "location": {
+                "lat": 29.1778772,
+                "lng": -9.7093341
+            }
+        },
+        {
+            "CS": "Aday",
+            "location": {
+                "lat": 29.14382659999999,
+                "lng": -9.2979641
+            }
+        },
+        {
+            "CS": "Guelmim",
+            "location": {
+                "lat": 28.9883659,
+                "lng": -10.0527498
+            }
+        },
+        {
+            "CS": "Bouizakarne",
+            "location": {
+                "lat": 29.1778772,
+                "lng": -9.7093341
+            }
+        }
+    ],
+    "Guercif": [
+        {
+            "CS": "Houara Oulad Raho",
+            "location": {
+                "lat": 32.85,
+                "lng": -7.699999999999999
+            }
+        },
+        {
+            "CS": "Saka",
+            "location": {
+                "lat": 34.618614,
+                "lng": -3.4170301
+            }
+        },
+        {
+            "CS": "Taddart",
+            "location": {
+                "lat": 31.3443209,
+                "lng": -7.392010600000001
+            }
+        },
+        {
+            "CS": "Guercif",
+            "location": {
+                "lat": 34.2299391,
+                "lng": -3.3489671
+            }
+        },
+        {
+            "CS": "Ras Laksar",
+            "location": {
+                "lat": 34.683189,
+                "lng": -1.884885
+            }
+        },
+        {
+            "CS": "Mazguitam",
+            "location": {
+                "lat": 34.5007582,
+                "lng": -3.6414234
+            }
+        },
+        {
+            "CS": "Lamrija",
+            "location": {
+                "lat": 33.9906741,
+                "lng": -3.2791114
+            }
+        },
+        {
+            "CS": "Barkine",
+            "location": {
+                "lat": 33.7663136,
+                "lng": -3.8455732
+            }
+        },
+        {
+            "CS": "Assebbab",
+            "location": {
+                "lat": 35.1339523,
+                "lng": -3.0839844
+            }
+        }
+    ],
+    "Ifrane": [
+        {
+            "CS": "Tizguite",
+            "location": {
+                "lat": 34.5608689,
+                "lng": -5.1438013
+            }
+        },
+        {
+            "CS": "Timahdite",
+            "location": {
+                "lat": 33.2374523,
+                "lng": -5.062471299999999
+            }
+        },
+        {
+            "CS": "Oued  Ifrane",
+            "location": {
+                "lat": 33.5687116,
+                "lng": -5.134085799999999
+            }
+        },
+        {
+            "CS": "Irklaouen",
+            "location": "NaN"
+        },
+        {
+            "CS": "Dayat-Aoua",
+            "location": {
+                "lat": 33.6510126,
+                "lng": -5.0325504
+            }
+        },
+        {
+            "CS": "Ain-Leuh",
+            "location": {
+                "lat": 33.2875171,
+                "lng": -5.3390102
+            }
+        },
+        {
+            "CS": "Ifrane",
+            "location": {
+                "lat": 33.5228062,
+                "lng": -5.1109552
+            }
+        },
+        {
+            "CS": "Azrou",
+            "location": {
+                "lat": 33.4347305,
+                "lng": -5.231887899999999
+            }
+        }
+    ],
+    "Inezgane Ait Melloul": [
+        {
+            "CS": "Temsia",
+            "location": {
+                "lat": 30.3690967,
+                "lng": -9.4144962
+            }
+        },
+        {
+            "CS": "Inzgane",
+            "location": {
+                "lat": 30.3523115,
+                "lng": -9.551496499999999
+            }
+        },
+        {
+            "CS": "Dcheira Jihadia",
+            "location": {
+                "lat": 30.3693727,
+                "lng": -9.5284134
+            }
+        },
+        {
+            "CS": "Laqlia",
+            "location": {
+                "lat": 34.2277132,
+                "lng": -4.696075899999999
+            }
+        },
+        {
+            "CS": "Ait Melloul",
+            "location": {
+                "lat": 30.33792829999999,
+                "lng": -9.5040247
+            }
+        }
+    ],
+    "Jerada": [
+        {
+            "CS": "Bni Mathar-rural",
+            "location": {
+                "lat": 34.0084384,
+                "lng": -2.0322172
+            }
+        },
+        {
+            "CS": "Oulad Sidi Ali",
+            "location": {
+                "lat": 32.948537,
+                "lng": -8.0911975
+            }
+        },
+        {
+            "CS": "Od S. Abdelhakem",
+            "location": "NaN"
+        },
+        {
+            "CS": "Tiouli",
+            "location": {
+                "lat": 34.3686746,
+                "lng": -1.8354908
+            }
+        },
+        {
+            "CS": "Sidi Boubker - Ras Asfour",
+            "location": {
+                "lat": 31.8259573,
+                "lng": -7.0576019
+            }
+        },
+        {
+            "CS": "Gafait",
+            "location": {
+                "lat": 34.2357073,
+                "lng": -2.3862989
+            }
+        },
+        {
+            "CS": "Laaouinate",
+            "location": {
+                "lat": 31.68622,
+                "lng": -7.992655
+            }
+        },
+        {
+            "CS": "Bni Yaala",
+            "location": {
+                "lat": 34.4834975,
+                "lng": -2.0450271
+            }
+        },
+        {
+            "CS": "Touissit",
+            "location": {
+                "lat": 34.477846,
+                "lng": -1.7690116
+            }
+        },
+        {
+            "CS": "Jrada",
+            "location": {
+                "lat": 34.3061791,
+                "lng": -2.1794136
+            }
+        },
+        {
+            "CS": "Ain Bni Mathar",
+            "location": {
+                "lat": 34.0084384,
+                "lng": -2.0322172
+            }
+        }
+    ],
+    "Kenitra": [
+        {
+            "CS": "S.Mohamed Lahmar",
+            "location": {
+                "lat": 34.7181111,
+                "lng": -6.2669744
+            }
+        },
+        {
+            "CS": "Sidi Mohamed Ben Mansour",
+            "location": {
+                "lat": 34.51408200000001,
+                "lng": -6.426373
+            }
+        },
+        {
+            "CS": "Arbaoua",
+            "location": {
+                "lat": 34.91167739999999,
+                "lng": -5.9145568
+            }
+        },
+        {
+            "CS": "Souk El Arbaa",
+            "location": {
+                "lat": 34.6821915,
+                "lng": -5.993833899999999
+            }
+        },
+        {
+            "CS": "Mehdya",
+            "location": {
+                "lat": 34.2562684,
+                "lng": -6.6758408
+            }
+        },
+        {
+            "CS": "Sidi Taibi",
+            "location": {
+                "lat": 34.1876794,
+                "lng": -6.6905458
+            }
+        },
+        {
+            "CS": "Mograne",
+            "location": {
+                "lat": 34.4103597,
+                "lng": -6.4303675
+            }
+        },
+        {
+            "CS": "Mnasra",
+            "location": {
+                "lat": 34.3603142,
+                "lng": -6.550684
+            }
+        },
+        {
+            "CS": "Ben Mansour",
+            "location": {
+                "lat": 34.51408200000001,
+                "lng": -6.426373
+            }
+        },
+        {
+            "CS": "Sidi Allal Tazi",
+            "location": {
+                "lat": 34.5251496,
+                "lng": -6.3199488
+            }
+        },
+        {
+            "CS": "S.Tlet El Gharb",
+            "location": {
+                "lat": 34.6173505,
+                "lng": -6.1341431
+            }
+        },
+        {
+            "CS": "S.Boubker El Haj",
+            "location": {
+                "lat": 34.9179925,
+                "lng": -6.0652719
+            }
+        },
+        {
+            "CS": "Chouafaa",
+            "location": {
+                "lat": 34.766667,
+                "lng": -6.05
+            }
+        },
+        {
+            "CS": "My Bousselham",
+            "location": {
+                "lat": 34.8826391,
+                "lng": -6.274773400000001
+            }
+        },
+        {
+            "CS": "Lalla Mimouna",
+            "location": {
+                "lat": 34.8465381,
+                "lng": -6.0652719
+            }
+        },
+        {
+            "CS": "Bahhara Od Ayad",
+            "location": "NaN"
+        },
+        {
+            "CS": "Kariat Ben Aouda",
+            "location": {
+                "lat": 34.7735585,
+                "lng": -5.9555037
+            }
+        },
+        {
+            "CS": "Oued El Makhazine",
+            "location": {
+                "lat": 34.9381645,
+                "lng": -5.8495481
+            }
+        },
+        {
+            "CS": "Kenitra Banlieue",
+            "location": {
+                "lat": 34.26564949999999,
+                "lng": -6.1526985
+            }
+        },
+        {
+            "CS": "Ameur Seflia",
+            "location": {
+                "lat": 34.311671,
+                "lng": -6.416416300000001
+            }
+        },
+        {
+            "CS": "Kenitra",
+            "location": {
+                "lat": 34.2540503,
+                "lng": -6.5890166
+            }
+        }
+    ],
+    "Khenifra": [
+        {
+            "CS": "My Bouazza",
+            "location": {
+                "lat": 33.2253439,
+                "lng": -6.1977851
+            }
+        },
+        {
+            "CS": "Moha Ou Hammou Zayani",
+            "location": {
+                "lat": 32.93488749999999,
+                "lng": -5.6623928
+            }
+        },
+        {
+            "CS": "Lehri - Aguelmam Azegza",
+            "location": {
+                "lat": 32.973611,
+                "lng": -5.444444
+            }
+        },
+        {
+            "CS": "Kaf Nsour",
+            "location": {
+                "lat": 32.9041667,
+                "lng": -5.9688889
+            }
+        },
+        {
+            "CS": "El Hammam",
+            "location": {
+                "lat": 33.17395630000001,
+                "lng": -5.471227799999999
+            }
+        },
+        {
+            "CS": "Aguelmous",
+            "location": {
+                "lat": 33.1584786,
+                "lng": -5.8432964
+            }
+        },
+        {
+            "CS": "Tighassaline",
+            "location": {
+                "lat": 32.7856913,
+                "lng": -5.6484241
+            }
+        },
+        {
+            "CS": "Kerrouchen",
+            "location": {
+                "lat": 32.7986666,
+                "lng": -5.3193997
+            }
+        },
+        {
+            "CS": "El Kbab",
+            "location": {
+                "lat": 32.7408934,
+                "lng": -5.517116199999999
+            }
+        },
+        {
+            "CS": "Ait Ishaq",
+            "location": {
+                "lat": 32.7598523,
+                "lng": -5.722084499999999
+            }
+        },
+        {
+            "CS": "M'rirt",
+            "location": {
+                "lat": 33.16271400000001,
+                "lng": -5.5669786
+            }
+        },
+        {
+            "CS": "Khenifra",
+            "location": {
+                "lat": 32.9340471,
+                "lng": -5.661570999999999
+            }
+        }
+    ],
+    "Khouribga": [
+        {
+            "CS": "Oued Zem",
+            "location": {
+                "lat": 32.8501501,
+                "lng": -6.5775187
+            }
+        },
+        {
+            "CS": "Smaala",
+            "location": {
+                "lat": 33.15,
+                "lng": -6.449999999999999
+            }
+        },
+        {
+            "CS": "Bni Smir",
+            "location": {
+                "lat": 32.8589376,
+                "lng": -6.6576169
+            }
+        },
+        {
+            "CS": "Bni Khirane",
+            "location": {
+                "lat": 33.0733108,
+                "lng": -6.711080099999999
+            }
+        },
+        {
+            "CS": "Oulad Azzouz",
+            "location": {
+                "lat": 32.8383511,
+                "lng": -6.6905458
+            }
+        },
+        {
+            "CS": "Oulad Abdoune",
+            "location": {
+                "lat": 32.9058605,
+                "lng": -6.9195717
+            }
+        },
+        {
+            "CS": "M'fassis - El Foqra",
+            "location": {
+                "lat": 33.1463478,
+                "lng": -7.4942705
+            }
+        },
+        {
+            "CS": "Lagfaf- Bni Ykhlef",
+            "location": "NaN"
+        },
+        {
+            "CS": "Boulanouare - Bir Mezoui",
+            "location": {
+                "lat": 32.8637513,
+                "lng": -6.8788306
+            }
+        },
+        {
+            "CS": "Ouled Youssef",
+            "location": {
+                "lat": 34.5706323,
+                "lng": -6.0480662
+            }
+        },
+        {
+            "CS": "Chougrane",
+            "location": {
+                "lat": 32.8972841,
+                "lng": -6.3817859
+            }
+        },
+        {
+            "CS": "Khouribga",
+            "location": {
+                "lat": 32.886023,
+                "lng": -6.9208655
+            }
+        },
+        {
+            "CS": "Hattane",
+            "location": {
+                "lat": 32.8408592,
+                "lng": -6.8002704
+            }
+        },
+        {
+            "CS": "Boujniba",
+            "location": {
+                "lat": 32.901093,
+                "lng": -6.7761686
+            }
+        },
+        {
+            "CS": "Bejaad",
+            "location": {
+                "lat": 32.7691969,
+                "lng": -6.393222000000001
+            }
+        }
+    ],
+    "Khémisset": [
+        {
+            "CS": "Mssaghra-Ait Yadine",
+            "location": {
+                "lat": 33.9714922,
+                "lng": -6.018960000000001
+            }
+        },
+        {
+            "CS": "Sidi Abderrazak",
+            "location": {
+                "lat": 33.9644209,
+                "lng": -6.1619784
+            }
+        },
+        {
+            "CS": "S.Allal Bahraoui-rural",
+            "location": {
+                "lat": 34.0078774,
+                "lng": -6.5303102
+            }
+        },
+        {
+            "CS": "B.Ameur Ait Zekri",
+            "location": {
+                "lat": 34.0976161,
+                "lng": -6.6872896
+            }
+        },
+        {
+            "CS": "Ain Johra -Sidi Boukhalkhal",
+            "location": {
+                "lat": 33.90297450000001,
+                "lng": -6.374860099999999
+            }
+        },
+        {
+            "CS": "My Driss Aghbal - Jemaat Moul Blad",
+            "location": {
+                "lat": 33.7911595,
+                "lng": -6.5008763
+            }
+        },
+        {
+            "CS": "Marchouch",
+            "location": {
+                "lat": 33.5613189,
+                "lng": -6.6918828
+            }
+        },
+        {
+            "CS": "Had Laghoualem",
+            "location": {
+                "lat": 33.4185433,
+                "lng": -6.7407016
+            }
+        },
+        {
+            "CS": "Ezzhiliga",
+            "location": {
+                "lat": 33.2915341,
+                "lng": -6.5436478
+            }
+        },
+        {
+            "CS": "Brachoua",
+            "location": {
+                "lat": 33.6925888,
+                "lng": -6.6330819
+            }
+        },
+        {
+            "CS": "Tiddas",
+            "location": {
+                "lat": 33.5682291,
+                "lng": -6.2668046
+            }
+        },
+        {
+            "CS": "Oulmes",
+            "location": {
+                "lat": 33.425066,
+                "lng": -6.001767399999999
+            }
+        },
+        {
+            "CS": "Maaziz",
+            "location": {
+                "lat": 33.6661123,
+                "lng": -6.3146324
+            }
+        },
+        {
+            "CS": "Ait Ikkou",
+            "location": {
+                "lat": 33.66874,
+                "lng": -6.1368852
+            }
+        },
+        {
+            "CS": "Sfassif Ait Siberne",
+            "location": {
+                "lat": 33.8679034,
+                "lng": -5.8327464
+            }
+        },
+        {
+            "CS": "Rhandor Lamssader",
+            "location": "NaN"
+        },
+        {
+            "CS": "Ait Ouribel",
+            "location": {
+                "lat": 33.7847522,
+                "lng": -6.12818
+            }
+        },
+        {
+            "CS": "Ait Mimoune",
+            "location": {
+                "lat": 33.7805704,
+                "lng": -5.7820009
+            }
+        },
+        {
+            "CS": "S.Allal Bahraoui",
+            "location": {
+                "lat": 34.0078774,
+                "lng": -6.5303102
+            }
+        },
+        {
+            "CS": "Tiflet",
+            "location": {
+                "lat": 33.8954803,
+                "lng": -6.3207151
+            }
+        },
+        {
+            "CS": "Roummani",
+            "location": {
+                "lat": 33.5229186,
+                "lng": -6.6023665
+            }
+        },
+        {
+            "CS": "Khemisset",
+            "location": {
+                "lat": 33.8153704,
+                "lng": -6.0573302
+            }
+        }
+    ],
+    "Laayoune": [
+        {
+            "CS": "Laayoune",
+            "location": {
+                "lat": 27.1500384,
+                "lng": -13.1990758
+            }
+        },
+        {
+            "CS": "Foum El Oued",
+            "location": {
+                "lat": 30.35049219999999,
+                "lng": -6.8418
+            }
+        },
+        {
+            "CS": "Dcheira",
+            "location": {
+                "lat": 30.3693727,
+                "lng": -9.5284134
+            }
+        },
+        {
+            "CS": "Boukraa",
+            "location": {
+                "lat": 26.283333,
+                "lng": -12.766667
+            }
+        },
+        {
+            "CS": "El Marsa",
+            "location": {
+                "lat": 27.0599878,
+                "lng": -13.4222797
+            }
+        }
+    ],
+    "Larache": [
+        {
+            "CS": "Oulad Ouchih - Souaken",
+            "location": {
+                "lat": 35.12040289999999,
+                "lng": -5.9535218
+            }
+        },
+        {
+            "CS": "Tolba",
+            "location": {
+                "lat": 33.929956,
+                "lng": -6.914339999999999
+            }
+        },
+        {
+            "CS": "Rissana",
+            "location": {
+                "lat": 35.2221403,
+                "lng": -5.9491618
+            }
+        },
+        {
+            "CS": "Khemis Sahel",
+            "location": {
+                "lat": 35.25167700000001,
+                "lng": -6.0811584
+            }
+        },
+        {
+            "CS": "Bni Garfett",
+            "location": {
+                "lat": 35.2584218,
+                "lng": -5.8327464
+            }
+        },
+        {
+            "CS": "Tazroute",
+            "location": {
+                "lat": 35.26439209999999,
+                "lng": -5.5453226
+            }
+        },
+        {
+            "CS": "Bni Arouss",
+            "location": {
+                "lat": 35.3077521,
+                "lng": -5.628709199999999
+            }
+        },
+        {
+            "CS": "Ayacha",
+            "location": {
+                "lat": 35.3809206,
+                "lng": -5.8363399
+            }
+        },
+        {
+            "CS": "Tatoft",
+            "location": {
+                "lat": 35.0006297,
+                "lng": -5.8987905
+            }
+        },
+        {
+            "CS": "Sidi Slama",
+            "location": {
+                "lat": 34.3342144,
+                "lng": -6.4596676
+            }
+        },
+        {
+            "CS": "L'qolla",
+            "location": {
+                "lat": 35.0692272,
+                "lng": -5.5648138
+            }
+        },
+        {
+            "CS": "Laouamra",
+            "location": {
+                "lat": 31.7980597,
+                "lng": -8.710954899999999
+            }
+        },
+        {
+            "CS": "Larache",
+            "location": {
+                "lat": 35.1744271,
+                "lng": -6.1473964
+            }
+        },
+        {
+            "CS": "Ksar El Kebir",
+            "location": {
+                "lat": 35.0035307,
+                "lng": -5.915536899999999
+            }
+        }
+    ],
+    "Marrakech": [
+        {
+            "CS": "Menara",
+            "location": {
+                "lat": 31.6360026,
+                "lng": -8.057429899999999
+            }
+        },
+        {
+            "CS": "Tassoultante",
+            "location": {
+                "lat": 31.633333,
+                "lng": -8
+            }
+        },
+        {
+            "CS": "Souihla",
+            "location": {
+                "lat": 31.6333883,
+                "lng": -8.1652683
+            }
+        },
+        {
+            "CS": "Saada",
+            "location": {
+                "lat": 31.672662,
+                "lng": -8.016831999999999
+            }
+        },
+        {
+            "CS": "Marrakech-Medina",
+            "location": {
+                "lat": 31.6336242,
+                "lng": -7.984948299999999
+            }
+        },
+        {
+            "CS": "Gueliz",
+            "location": {
+                "lat": 31.6336545,
+                "lng": -8.008899
+            }
+        },
+        {
+            "CS": "Sidi Zouine",
+            "location": {
+                "lat": 31.6656696,
+                "lng": -8.3444393
+            }
+        },
+        {
+            "CS": "Loudaya",
+            "location": {
+                "lat": 31.6260711,
+                "lng": -8.256851
+            }
+        },
+        {
+            "CS": "Ait Imour",
+            "location": {
+                "lat": 31.5515578,
+                "lng": -8.3026851
+            }
+        },
+        {
+            "CS": "Agafay",
+            "location": {
+                "lat": 31.48963759999999,
+                "lng": -8.2063194
+            }
+        },
+        {
+            "CS": "Ouled Dlim",
+            "location": {
+                "lat": 31.9537685,
+                "lng": -8.2083116
+            }
+        },
+        {
+            "CS": "Ouahat S.Brahim",
+            "location": {
+                "lat": 31.7094675,
+                "lng": -7.9701846
+            }
+        },
+        {
+            "CS": "Od Hassoune",
+            "location": {
+                "lat": 32.5163697,
+                "lng": -6.537858
+            }
+        },
+        {
+            "CS": "Harbil",
+            "location": {
+                "lat": 32.382534,
+                "lng": -9.207905
+            }
+        },
+        {
+            "CS": "Bour",
+            "location": {
+                "lat": 29.2166667,
+                "lng": -1.45
+            }
+        },
+        {
+            "CS": "Al Ouidane",
+            "location": {
+                "lat": 32.1085649,
+                "lng": -6.4616658
+            }
+        },
+        {
+            "CS": "Sidi Youssef Ben Ali",
+            "location": {
+                "lat": 31.6084373,
+                "lng": -7.965306699999999
+            }
+        },
+        {
+            "CS": "Annakhil",
+            "location": {
+                "lat": 31.6455639,
+                "lng": -7.980385099999999
+            }
+        },
+        {
+            "CS": "Mechouar El Kasbah",
+            "location": {
+                "lat": 31.6175286,
+                "lng": -7.9890806
+            }
+        }
+    ],
+    "Mdiq-Fnideq": [
+        {
+            "CS": "Martil",
+            "location": {
+                "lat": 35.6196262,
+                "lng": -5.284117699999999
+            }
+        },
+        {
+            "CS": "Belyounech",
+            "location": {
+                "lat": 35.9097178,
+                "lng": -5.4004997
+            }
+        },
+        {
+            "CS": "Allyene",
+            "location": {
+                "lat": 35.7820861,
+                "lng": -5.402174
+            }
+        },
+        {
+            "CS": "Fnideq",
+            "location": {
+                "lat": 35.8432765,
+                "lng": -5.3610346
+            }
+        },
+        {
+            "CS": "Mdiq",
+            "location": {
+                "lat": 35.6805832,
+                "lng": -5.3233213
+            }
+        }
+    ],
+    "Mediouna": [
+        {
+            "CS": "Mediouna",
+            "location": {
+                "lat": 33.4540939,
+                "lng": -7.516602000000001
+            }
+        },
+        {
+            "CS": "Tit Melil-rural",
+            "location": {
+                "lat": 33.533333,
+                "lng": -7.583333
+            }
+        },
+        {
+            "CS": "Mediouna-rural",
+            "location": {
+                "lat": 33.452128,
+                "lng": -7.512884
+            }
+        },
+        {
+            "CS": "Lahraouyine",
+            "location": {
+                "lat": 33.5474683,
+                "lng": -7.538263600000001
+            }
+        },
+        {
+            "CS": "Tit Melil",
+            "location": {
+                "lat": 33.5507563,
+                "lng": -7.484122199999999
+            }
+        }
+    ],
+    "Meknès": [
+        {
+            "CS": "Meknes",
+            "location": {
+                "lat": 33.8730164,
+                "lng": -5.5407299
+            }
+        },
+        {
+            "CS": "Oualili",
+            "location": {
+                "lat": 34.040572052588224,
+                "lng": -5.562102378315907
+            }
+        },
+        {
+            "CS": "Nzalat Bni Amar",
+            "location": {
+                "lat": 34.1238097,
+                "lng": -5.4293045
+            }
+        },
+        {
+            "CS": "Mrhassiyine",
+            "location": {
+                "lat": 34.017194,
+                "lng": -5.491790099999999
+            }
+        },
+        {
+            "CS": "Mhaya",
+            "location": {
+                "lat": 33.9774743,
+                "lng": -5.250162899999999
+            }
+        },
+        {
+            "CS": "Majjate",
+            "location": {
+                "lat": 33.8183943,
+                "lng": -5.5124311
+            }
+        },
+        {
+            "CS": "Dkhissa",
+            "location": {
+                "lat": 33.9361325,
+                "lng": -5.465985799999999
+            }
+        },
+        {
+            "CS": "Ain Orma",
+            "location": {
+                "lat": 33.8941043,
+                "lng": -5.7484139
+            }
+        },
+        {
+            "CS": "Ain Jemaa",
+            "location": {
+                "lat": 34.0254774,
+                "lng": -5.7905653
+            }
+        },
+        {
+            "CS": "Ouislane",
+            "location": {
+                "lat": 30.220278,
+                "lng": -8.385278
+            }
+        },
+        {
+            "CS": "My D. ZERHOUN",
+            "location": {
+                "lat": 34.03383300000001,
+                "lng": -5.52015
+            }
+        },
+        {
+            "CS": "Toulal",
+            "location": {
+                "lat": 32.2905867,
+                "lng": -3.985291599999999
+            }
+        },
+        {
+            "CS": "Boufakrane",
+            "location": {
+                "lat": 33.7557952,
+                "lng": -5.485646
+            }
+        },
+        {
+            "CS": "Al Machouar-Stinia",
+            "location": {
+                "lat": 33.8865686,
+                "lng": -5.5486033
+            }
+        }
+    ],
+    "Midelt": [
+        {
+            "CS": "Banlieue-Jbal Ayachi-Malouiya",
+            "location": {
+                "lat": 32.477778,
+                "lng": -4.926944
+            }
+        },
+        {
+            "CS": "Boumia",
+            "location": {
+                "lat": 32.7304184,
+                "lng": -5.0989182
+            }
+        },
+        {
+            "CS": "Outerbat",
+            "location": {
+                "lat": 32.1417379,
+                "lng": -5.3553574
+            }
+        },
+        {
+            "CS": "Tounfite",
+            "location": {
+                "lat": 32.4765708,
+                "lng": -5.2397193
+            }
+        },
+        {
+            "CS": "Zaida",
+            "location": {
+                "lat": 32.8175662,
+                "lng": -4.961064899999999
+            }
+        },
+        {
+            "CS": "Itzer",
+            "location": {
+                "lat": 32.8771669,
+                "lng": -5.0533632
+            }
+        },
+        {
+            "CS": "Aghbalou",
+            "location": {
+                "lat": 32.6771605,
+                "lng": -5.2971826
+            }
+        },
+        {
+            "CS": "Ait Oufella",
+            "location": {
+                "lat": 32.929223,
+                "lng": -5.0520622
+            }
+        },
+        {
+            "CS": "Agoudim",
+            "location": {
+                "lat": 32.3819753,
+                "lng": -5.1800318
+            }
+        },
+        {
+            "CS": "Bou Azmou",
+            "location": {
+                "lat": 32.0953651,
+                "lng": -5.5289218
+            }
+        },
+        {
+            "CS": "Imilchil",
+            "location": {
+                "lat": 32.1544853,
+                "lng": -5.632651699999999
+            }
+        },
+        {
+            "CS": "Amouguer",
+            "location": {
+                "lat": 32.2747412,
+                "lng": -4.9370404
+            }
+        },
+        {
+            "CS": "Gourrama",
+            "location": {
+                "lat": 32.341507,
+                "lng": -4.074656099999999
+            }
+        },
+        {
+            "CS": "Sidi Aayad",
+            "location": {
+                "lat": 36.6121428,
+                "lng": 4.7150403
+            }
+        },
+        {
+            "CS": "Ait Izdeg",
+            "location": {
+                "lat": 32.6465494,
+                "lng": -4.7454674
+            }
+        },
+        {
+            "CS": "Er-Rich",
+            "location": {
+                "lat": 32.2593586,
+                "lng": -4.495428899999999
+            }
+        },
+        {
+            "CS": "Midelt",
+            "location": {
+                "lat": 32.6799423,
+                "lng": -4.7329268
+            }
+        }
+    ],
+    "Mohammedia": [
+        {
+            "CS": "Zenata",
+            "location": {
+                "lat": 33.7020666,
+                "lng": -7.3963679
+            }
+        },
+        {
+            "CS": "Sidi Moussa Ben Ali",
+            "location": {
+                "lat": 33.5528353,
+                "lng": -7.380019900000001
+            }
+        },
+        {
+            "CS": "Sidi Moussa Majdoub",
+            "location": {
+                "lat": 33.6045801,
+                "lng": -7.3874505
+            }
+        },
+        {
+            "CS": "Bni Yakhlef",
+            "location": {
+                "lat": 33.6812829,
+                "lng": -7.3489551
+            }
+        },
+        {
+            "CS": "Ain Harrouda",
+            "location": {
+                "lat": 33.6353103,
+                "lng": -7.450382899999998
+            }
+        },
+        {
+            "CS": "Mohammedia",
+            "location": {
+                "lat": 33.6835086,
+                "lng": -7.384854699999999
+            }
+        }
+    ],
+    "Moulay Yacoub": [
+        {
+            "CS": "Ain Kansra",
+            "location": {
+                "lat": 34.133333,
+                "lng": -4.833333
+            }
+        },
+        {
+            "CS": "Oulad Mimoun",
+            "location": {
+                "lat": 34.9044116,
+                "lng": -1.0342358
+            }
+        },
+        {
+            "CS": "Sebaa Rouadi",
+            "location": {
+                "lat": 34.1463173,
+                "lng": -5.1477679
+            }
+        },
+        {
+            "CS": "Laajajra",
+            "location": {
+                "lat": 34.2067618,
+                "lng": -5.128223
+            }
+        },
+        {
+            "CS": "Ain Bouali",
+            "location": {
+                "lat": 34.1230143,
+                "lng": -5.0234472
+            }
+        },
+        {
+            "CS": "Mikkes",
+            "location": {
+                "lat": 34.1335939,
+                "lng": -5.332472699999999
+            }
+        },
+        {
+            "CS": "Ain Chkef",
+            "location": {
+                "lat": 33.9647874,
+                "lng": -5.0208465
+            }
+        },
+        {
+            "CS": "My YACOUB",
+            "location": {
+                "lat": 34.08744790000001,
+                "lng": -5.1784019
+            }
+        }
+    ],
+    "Nador": [
+        {
+            "CS": "Oulad Daoud Zkhanine",
+            "location": {
+                "lat": 34.9648648,
+                "lng": -2.5061788
+            }
+        },
+        {
+            "CS": "Oulad Settout",
+            "location": {
+                "lat": 34.916109,
+                "lng": -2.7854502
+            }
+        },
+        {
+            "CS": "Kabdana",
+            "location": {
+                "lat": 35.1303966,
+                "lng": -2.4159308
+            }
+        },
+        {
+            "CS": "Bni Bou Yahi",
+            "location": {
+                "lat": 34.8,
+                "lng": -2.2166667
+            }
+        },
+        {
+            "CS": "Hassi Berkane",
+            "location": {
+                "lat": 34.839107,
+                "lng": -2.8670625
+            }
+        },
+        {
+            "CS": "Nador",
+            "location": {
+                "lat": 35.1686165,
+                "lng": -2.9275836
+            }
+        },
+        {
+            "CS": "Bni Sidel",
+            "location": {
+                "lat": 35.1822708,
+                "lng": -3.0425977
+            }
+        },
+        {
+            "CS": "Bni Bouyafrour",
+            "location": {
+                "lat": 35.2295222,
+                "lng": -3.1277854
+            }
+        },
+        {
+            "CS": "Iaazzanene",
+            "location": {
+                "lat": 35.2545402,
+                "lng": -3.1152484
+            }
+        },
+        {
+            "CS": "Beni Chiker",
+            "location": {
+                "lat": 35.2735291,
+                "lng": -3.0150692
+            }
+        },
+        {
+            "CS": "Selouane",
+            "location": {
+                "lat": 35.0801925,
+                "lng": -2.9475662
+            }
+        },
+        {
+            "CS": "Ras El Ma",
+            "location": {
+                "lat": 35.1303966,
+                "lng": -2.4159308
+            }
+        },
+        {
+            "CS": "Zeghanghane",
+            "location": {
+                "lat": 35.1586093,
+                "lng": -3.0000604
+            }
+        },
+        {
+            "CS": "Zaio",
+            "location": {
+                "lat": 34.9363523,
+                "lng": -2.7431421
+            }
+        },
+        {
+            "CS": "Bni Ansar",
+            "location": {
+                "lat": 35.2653007,
+                "lng": -2.9321911
+            }
+        },
+        {
+            "CS": "Al Aarouit",
+            "location": {
+                "lat": 35.0127095,
+                "lng": -3.0075642
+            }
+        }
+    ],
+    "Nouaceur": [
+        {
+            "CS": "Bouskoura",
+            "location": {
+                "lat": 33.4497542,
+                "lng": -7.633112999999999
+            }
+        },
+        {
+            "CS": "Ouled Salah",
+            "location": {
+                "lat": 32.7526516,
+                "lng": -7.750497900000001
+            }
+        },
+        {
+            "CS": "Ouled Azzouz",
+            "location": {
+                "lat": 33.250293,
+                "lng": -7.296987
+            }
+        },
+        {
+            "CS": "Dar Bouazza",
+            "location": {
+                "lat": 33.524034,
+                "lng": -7.825917399999999
+            }
+        },
+        {
+            "CS": "Nouaceur",
+            "location": {
+                "lat": 33.3670393,
+                "lng": -7.5732537
+            }
+        }
+    ],
+    "Ouarzazate": [
+        {
+            "CS": "Skoura",
+            "location": {
+                "lat": 31.0604911,
+                "lng": -6.555654
+            }
+        },
+        {
+            "CS": "Moghrane",
+            "location": {
+                "lat": 36.426601,
+                "lng": 10.09097
+            }
+        },
+        {
+            "CS": "Ghassate",
+            "location": {
+                "lat": 31.1770005,
+                "lng": -6.810985199999999
+            }
+        },
+        {
+            "CS": "Ahl Ouarzazate",
+            "location": {
+                "lat": 30.9335436,
+                "lng": -6.937016
+            }
+        },
+        {
+            "CS": "Telouet",
+            "location": {
+                "lat": 31.28883279999999,
+                "lng": -7.239665899999999
+            }
+        },
+        {
+            "CS": "Anzal",
+            "location": {
+                "lat": 31.1206905,
+                "lng": -7.5826235
+            }
+        },
+        {
+            "CS": "Ouisselsate",
+            "location": {
+                "lat": 30.527533,
+                "lng": -7.260954399999999
+            }
+        },
+        {
+            "CS": "Ighrem N'ougdal",
+            "location": {
+                "lat": 31.2299803,
+                "lng": -7.423264000000001
+            }
+        },
+        {
+            "CS": "Amerzgane",
+            "location": {
+                "lat": 31.046227,
+                "lng": -7.2106867
+            }
+        },
+        {
+            "CS": "Taznakht",
+            "location": {
+                "lat": 30.5731514,
+                "lng": -7.2032754
+            }
+        },
+        {
+            "CS": "Ouarzazate",
+            "location": {
+                "lat": 30.9335436,
+                "lng": -6.937016
+            }
+        }
+    ],
+    "Oued Ed-Dahab": [
+        {
+            "CS": "Dakhla",
+            "location": {
+                "lat": 23.7221111,
+                "lng": -15.9347384
+            }
+        },
+        {
+            "CS": "Imlili",
+            "location": {
+                "lat": 23.2353734,
+                "lng": -16.0787142
+            }
+        },
+        {
+            "CS": "El Argoub",
+            "location": {
+                "lat": 23.6105384,
+                "lng": -15.8671954
+            }
+        },
+        {
+            "CS": "Bir Anzarane",
+            "location": {
+                "lat": 23.8917671,
+                "lng": -14.5363969
+            }
+        }
+    ],
+    "Ouezzane": [
+        {
+            "CS": "Lamjaara",
+            "location": {
+                "lat": 34.3673906,
+                "lng": -5.1947033
+            }
+        },
+        {
+            "CS": "Zoumi",
+            "location": {
+                "lat": 34.8032705,
+                "lng": -5.3442408
+            }
+        },
+        {
+            "CS": "Moqrissat",
+            "location": {
+                "lat": 34.9226583,
+                "lng": -5.350779699999999
+            }
+        },
+        {
+            "CS": "Kalaat Bouqorra",
+            "location": {
+                "lat": 34.7476794,
+                "lng": -5.1966598
+            }
+        },
+        {
+            "CS": "Brikcha",
+            "location": {
+                "lat": 34.9645166,
+                "lng": -5.5663222
+            }
+        },
+        {
+            "CS": "Teroual",
+            "location": {
+                "lat": 34.6756374,
+                "lng": -5.2697497
+            }
+        },
+        {
+            "CS": "Sidi Redouane",
+            "location": {
+                "lat": 34.6870111,
+                "lng": -5.4502624
+            }
+        },
+        {
+            "CS": "Bni Quolla",
+            "location": {
+                "lat": 34.7415201,
+                "lng": -5.5400738
+            }
+        },
+        {
+            "CS": "Sidi Bousber",
+            "location": {
+                "lat": 34.5601745,
+                "lng": -5.3710551
+            }
+        },
+        {
+            "CS": "Mzefroune",
+            "location": {
+                "lat": 34.8371505,
+                "lng": -5.750973
+            }
+        },
+        {
+            "CS": "Ouezzane",
+            "location": {
+                "lat": 34.7953732,
+                "lng": -5.567558
+            }
+        }
+    ],
+    "Oujda Angad": [
+        {
+            "CS": "Oujda",
+            "location": {
+                "lat": 34.681962,
+                "lng": -1.900155
+            }
+        },
+        {
+            "CS": "Oued Isly",
+            "location": {
+                "lat": 34.7771598,
+                "lng": -1.8834251
+            }
+        },
+        {
+            "CS": "Isly Beni Oukil",
+            "location": {
+                "lat": 35.2194911,
+                "lng": -3.9134872
+            }
+        },
+        {
+            "CS": "Bni Khaled",
+            "location": {
+                "lat": 34.9339088,
+                "lng": -2.181871000000001
+            }
+        },
+        {
+            "CS": "Angad",
+            "location": {
+                "lat": 34.7130815,
+                "lng": -2.027319
+            }
+        },
+        {
+            "CS": "Ain Sfa",
+            "location": {
+                "lat": 34.7525482,
+                "lng": -2.1425692
+            }
+        },
+        {
+            "CS": "Neima",
+            "location": {
+                "lat": 35.17016,
+                "lng": -2.933404
+            }
+        },
+        {
+            "CS": "Bni Drar",
+            "location": {
+                "lat": 34.8571102,
+                "lng": -1.9979411
+            }
+        }
+    ],
+    "Rabat": [
+        {
+            "CS": "Yacoub El Mansour",
+            "location": {
+                "lat": 33.98338330000001,
+                "lng": -6.8873077
+            }
+        },
+        {
+            "CS": "Touarga",
+            "location": {
+                "lat": 34.00322390000001,
+                "lng": -6.838374099999999
+            }
+        },
+        {
+            "CS": "Hassan",
+            "location": {
+                "lat": 34.0240495,
+                "lng": -6.822654699999999
+            }
+        },
+        {
+            "CS": "El Youssoufia",
+            "location": {
+                "lat": 33.99747,
+                "lng": -6.8146774
+            }
+        },
+        {
+            "CS": "Agdal Rabat",
+            "location": {
+                "lat": 33.9933499,
+                "lng": -6.848500899999999
+            }
+        }
+    ],
+    "Rehamena": [
+        {
+            "CS": "Sidi Bou Othmane",
+            "location": {
+                "lat": 31.914527,
+                "lng": -7.948389799999999
+            }
+        },
+        {
+            "CS": "Benguerir",
+            "location": {
+                "lat": 32.2359364,
+                "lng": -7.953837799999999
+            }
+        },
+        {
+            "CS": "S.Bouothmane-rural",
+            "location": {
+                "lat": 31.914527,
+                "lng": -7.948389799999999
+            }
+        },
+        {
+            "CS": "Ras El Ain",
+            "location": {
+                "lat": 32.9795925,
+                "lng": -7.393530699999999
+            }
+        },
+        {
+            "CS": "Labhira",
+            "location": {
+                "lat": 33.5986448,
+                "lng": -7.6240459
+            }
+        },
+        {
+            "CS": "Louta",
+            "location": {
+                "lat": 34.8404355,
+                "lng": -4.4370992
+            }
+        },
+        {
+            "CS": "Tnine Bouchane",
+            "location": {
+                "lat": 32.2829089,
+                "lng": -8.319559
+            }
+        },
+        {
+            "CS": "Skhours",
+            "location": {
+                "lat": 32.4801697,
+                "lng": -7.916414499999999
+            }
+        },
+        {
+            "CS": "Oulad Tmim",
+            "location": {
+                "lat": 32.286308,
+                "lng": -7.959286299999999
+            }
+        },
+        {
+            "CS": "Labrikiyene",
+            "location": {
+                "lat": 32.3138665,
+                "lng": -8.057429899999999
+            }
+        }
+    ],
+    "Safi": [
+        {
+            "CS": "Sidi Ettiji",
+            "location": {
+                "lat": 32.1714129,
+                "lng": -8.8686715
+            }
+        },
+        {
+            "CS": "Sidi Aissa",
+            "location": {
+                "lat": 35.885157,
+                "lng": 3.774373
+            }
+        },
+        {
+            "CS": "El Gouraani",
+            "location": {
+                "lat": 32.3197795,
+                "lng": -8.7790986
+            }
+        },
+        {
+            "CS": "Had Labkhati",
+            "location": {
+                "lat": 32.4362108,
+                "lng": -8.6504333
+            }
+        },
+        {
+            "CS": "El Ameur",
+            "location": {
+                "lat": 36.6371827,
+                "lng": 3.695368499999999
+            }
+        },
+        {
+            "CS": "Souk Ayir",
+            "location": {
+                "lat": 32.676179,
+                "lng": -9.0847566
+            }
+        },
+        {
+            "CS": "Oulad Zaid",
+            "location": {
+                "lat": 34.3975613,
+                "lng": -6.196458499999999
+            }
+        },
+        {
+            "CS": "Moul El Bergui",
+            "location": {
+                "lat": 32.5232776,
+                "lng": -8.9948905
+            }
+        },
+        {
+            "CS": "Had Hrara",
+            "location": {
+                "lat": 32.4408483,
+                "lng": -9.1350631
+            }
+        },
+        {
+            "CS": "Dar Si Aissa",
+            "location": {
+                "lat": 31.6285765,
+                "lng": -7.991995099999999
+            }
+        },
+        {
+            "CS": "Souiria El Kadima",
+            "location": {
+                "lat": 32.309897,
+                "lng": -9.232274
+            }
+        },
+        {
+            "CS": "Khemis Nagga",
+            "location": {
+                "lat": 32.51841930000001,
+                "lng": -8.2534317
+            }
+        },
+        {
+            "CS": "Laamamra",
+            "location": {
+                "lat": 31.89703,
+                "lng": -8.992174799999999
+            }
+        },
+        {
+            "CS": "Ouled Salmane",
+            "location": {
+                "lat": 32.1192108,
+                "lng": -9.1656811
+            }
+        },
+        {
+            "CS": "Khatazakane",
+            "location": {
+                "lat": 32.2939679,
+                "lng": -9.177833399999999
+            }
+        },
+        {
+            "CS": "El Ghiate",
+            "location": {
+                "lat": 31.4992731,
+                "lng": -7.868490400000001
+            }
+        },
+        {
+            "CS": "Sebt Gzoula",
+            "location": {
+                "lat": 32.1062572,
+                "lng": -9.0819914
+            }
+        },
+        {
+            "CS": "Jamaat Shaim",
+            "location": {
+                "lat": 32.3576301,
+                "lng": -8.8307626
+            }
+        },
+        {
+            "CS": "Safi",
+            "location": {
+                "lat": 32.3008151,
+                "lng": -9.2272033
+            }
+        }
+    ],
+    "Salé": [
+        {
+            "CS": "Layayda",
+            "location": {
+                "lat": 34.06726070000001,
+                "lng": -6.7696127
+            }
+        },
+        {
+            "CS": "Arbaa Shoul",
+            "location": {
+                "lat": 33.89448,
+                "lng": -6.607373399999999
+            }
+        },
+        {
+            "CS": "Sidi Bouknadel",
+            "location": {
+                "lat": 34.1199051,
+                "lng": -6.7400326
+            }
+        },
+        {
+            "CS": "Tabriquet",
+            "location": {
+                "lat": 34.0523686,
+                "lng": -6.805175200000001
+            }
+        },
+        {
+            "CS": "Hssaine",
+            "location": {
+                "lat": 33.9957922,
+                "lng": -6.737565699999999
+            }
+        },
+        {
+            "CS": "Bettana",
+            "location": {
+                "lat": 34.031756,
+                "lng": -6.8048117
+            }
+        },
+        {
+            "CS": "Bab Lamrissa",
+            "location": {
+                "lat": 34.03307,
+                "lng": -6.8202728
+            }
+        }
+    ],
+    "Sefrou": [
+        {
+            "CS": "Tazouta",
+            "location": {
+                "lat": 33.6722582,
+                "lng": -4.630830500000001
+            }
+        },
+        {
+            "CS": "El Ouata",
+            "location": {
+                "lat": 29.858894,
+                "lng": -1.8515498
+            }
+        },
+        {
+            "CS": "Ait Youssi",
+            "location": {
+                "lat": 33.7881607,
+                "lng": -4.680199
+            }
+        },
+        {
+            "CS": "Ait Sebaa",
+            "location": {
+                "lat": 33.7848154,
+                "lng": -5.0325504
+            }
+        },
+        {
+            "CS": "Ain Cheggag",
+            "location": {
+                "lat": 33.8860615,
+                "lng": -5.0416551
+            }
+        },
+        {
+            "CS": "Ras Tabouda",
+            "location": {
+                "lat": 34.00543630000001,
+                "lng": -4.7128802
+            }
+        },
+        {
+            "CS": "Ighzrane",
+            "location": {
+                "lat": 33.8093052,
+                "lng": -4.3811716
+            }
+        },
+        {
+            "CS": "Bni Yazrha",
+            "location": {
+                "lat": 33.8374401,
+                "lng": -4.545646899999999
+            }
+        },
+        {
+            "CS": "Adrej",
+            "location": {
+                "lat": 33.6206259,
+                "lng": -4.440076599999999
+            }
+        },
+        {
+            "CS": "Sefrou",
+            "location": {
+                "lat": 33.8305244,
+                "lng": -4.835315400000001
+            }
+        },
+        {
+            "CS": "Ribat El Kheir",
+            "location": {
+                "lat": 33.82379780000001,
+                "lng": -4.4130648
+            }
+        },
+        {
+            "CS": "Imouzzer-Kendar",
+            "location": {
+                "lat": 33.7311674,
+                "lng": -5.0156456
+            }
+        },
+        {
+            "CS": "El Menzel",
+            "location": {
+                "lat": 33.8412305,
+                "lng": -4.5469705
+            }
+        },
+        {
+            "CS": "Bhalil",
+            "location": {
+                "lat": 33.8512937,
+                "lng": -4.8676221
+            }
+        }
+    ],
+    "Settat": [
+        {
+            "CS": "Ben Ahmed",
+            "location": {
+                "lat": 33.0656876,
+                "lng": -7.238317800000001
+            }
+        },
+        {
+            "CS": "Oulad Said",
+            "location": {
+                "lat": 31.583333,
+                "lng": -8.1
+            }
+        },
+        {
+            "CS": "Oulad Bouziri",
+            "location": {
+                "lat": 32.8045096,
+                "lng": -7.694155800000001
+            }
+        },
+        {
+            "CS": "Guisser",
+            "location": {
+                "lat": 32.7668648,
+                "lng": -7.5057737
+            }
+        },
+        {
+            "CS": "Oulad Sghir-Oulad aafif",
+            "location": {
+                "lat": 32.8569861,
+                "lng": -7.615488300000001
+            }
+        },
+        {
+            "CS": "Mzoura",
+            "location": {
+                "lat": 34.3104852,
+                "lng": -5.944934099999999
+            }
+        },
+        {
+            "CS": "Mzamza",
+            "location": {
+                "lat": 33.0335728,
+                "lng": -7.6358249
+            }
+        },
+        {
+            "CS": "Sidi El Aidi",
+            "location": {
+                "lat": 33.123732,
+                "lng": -7.624978
+            }
+        },
+        {
+            "CS": "Bni Yagrine",
+            "location": {
+                "lat": 32.7183761,
+                "lng": -7.565350199999999
+            }
+        },
+        {
+            "CS": "B.Meskine Gharbia",
+            "location": {
+                "lat": 30.8753556,
+                "lng": 31.03351
+            }
+        },
+        {
+            "CS": "Oulad Freiha - Ain Blal",
+            "location": {
+                "lat": 32.6101115,
+                "lng": -7.6256558
+            }
+        },
+        {
+            "CS": "Dar Chaffai",
+            "location": {
+                "lat": 32.5494175,
+                "lng": -7.5017135
+            }
+        },
+        {
+            "CS": "B.Meskine Charquia",
+            "location": {
+                "lat": 40.4275631,
+                "lng": -3.7964272
+            }
+        },
+        {
+            "CS": "Laqraqra - Oulad Amer",
+            "location": {
+                "lat": 32.4020779,
+                "lng": -7.159329899999999
+            }
+        },
+        {
+            "CS": "Ras El Aine",
+            "location": {
+                "lat": 32.9795925,
+                "lng": -7.393530699999999
+            }
+        },
+        {
+            "CS": "Sidi Hajjaj",
+            "location": {
+                "lat": 32.9181674,
+                "lng": -7.2706807
+            }
+        },
+        {
+            "CS": "Oulad Fares",
+            "location": {
+                "lat": 36.2309293,
+                "lng": 1.2341846
+            }
+        },
+        {
+            "CS": "Mlal",
+            "location": {
+                "lat": 30.844637,
+                "lng": -5.7141879
+            }
+        },
+        {
+            "CS": "Maarif Od M'hammed",
+            "location": {
+                "lat": 33.567033,
+                "lng": -7.6276895
+            }
+        },
+        {
+            "CS": "N'Khila - Lakhzazra",
+            "location": {
+                "lat": 32.7437558,
+                "lng": -7.398935799999999
+            }
+        },
+        {
+            "CS": "Settat",
+            "location": {
+                "lat": 32.99242419999999,
+                "lng": -7.622266499999999
+            }
+        },
+        {
+            "CS": "Oulad M'rah",
+            "location": {
+                "lat": 32.9133958,
+                "lng": -7.2745146
+            }
+        },
+        {
+            "CS": "Loulad",
+            "location": {
+                "lat": 32.9923259,
+                "lng": -7.1265158
+            }
+        },
+        {
+            "CS": "El Borouj",
+            "location": {
+                "lat": 32.5068574,
+                "lng": -7.195191299999999
+            }
+        }
+    ],
+    "Sidi Bennour": [
+        {
+            "CS": "Od Ameur Lghnadra",
+            "location": {
+                "lat": 34.0976161,
+                "lng": -6.6872896
+            }
+        },
+        {
+            "CS": "Loualidia",
+            "location": {
+                "lat": 32.7361897,
+                "lng": -9.0294708
+            }
+        },
+        {
+            "CS": "Oulad Amrane",
+            "location": {
+                "lat": 32.3931336,
+                "lng": -8.5199254
+            }
+        },
+        {
+            "CS": "Mtal-Jabria",
+            "location": {
+                "lat": 32.5277434,
+                "lng": -8.3143192
+            }
+        },
+        {
+            "CS": "Metrane",
+            "location": {
+                "lat": 32.6128649,
+                "lng": -8.2241638
+            }
+        },
+        {
+            "CS": "Lmechrek",
+            "location": {
+                "lat": 32.6910346,
+                "lng": -8.411569
+            }
+        },
+        {
+            "CS": "Laaounate",
+            "location": {
+                "lat": 32.7467953,
+                "lng": -8.191241
+            }
+        },
+        {
+            "CS": "Bouhmame",
+            "location": {
+                "lat": 32.6184403,
+                "lng": -8.4743006
+            }
+        },
+        {
+            "CS": "Bni Hlal",
+            "location": {
+                "lat": 32.7989631,
+                "lng": -8.3755814
+            }
+        },
+        {
+            "CS": "Zmamra",
+            "location": {
+                "lat": 33.176146,
+                "lng": -7.838155199999999
+            }
+        },
+        {
+            "CS": "Sidi Bennour",
+            "location": {
+                "lat": 32.6521619,
+                "lng": -8.4266472
+            }
+        }
+    ],
+    "Sidi Ifni": [
+        {
+            "CS": "Sbouya",
+            "location": {
+                "lat": 29.156657,
+                "lng": -10.2659715
+            }
+        },
+        {
+            "CS": "Tioughza",
+            "location": {
+                "lat": 29.3880068,
+                "lng": -9.9590822
+            }
+        },
+        {
+            "CS": "Tighirt",
+            "location": {
+                "lat": 29.3812174,
+                "lng": -9.4513757
+            }
+        },
+        {
+            "CS": "Sidi H'saine",
+            "location": {
+                "lat": 29.3701124,
+                "lng": -10.1759285
+            }
+        },
+        {
+            "CS": "Ibder",
+            "location": {
+                "lat": 29.4089864,
+                "lng": -9.3548221
+            }
+        },
+        {
+            "CS": "Ait Erkha",
+            "location": {
+                "lat": 29.3376171,
+                "lng": -9.5603658
+            }
+        },
+        {
+            "CS": "Mirleft",
+            "location": {
+                "lat": 29.5797169,
+                "lng": -10.0351317
+            }
+        },
+        {
+            "CS": "Tnine Amellou - Tangarfa",
+            "location": {
+                "lat": 29.284247,
+                "lng": -9.9391734
+            }
+        },
+        {
+            "CS": "Mesti",
+            "location": {
+                "lat": 29.2636526,
+                "lng": -10.112218
+            }
+        },
+        {
+            "CS": "Lakhsass",
+            "location": {
+                "lat": 29.3631162,
+                "lng": -9.752534299999999
+            }
+        },
+        {
+            "CS": "Sidi Ifni",
+            "location": {
+                "lat": 29.3701124,
+                "lng": -10.1759285
+            }
+        }
+    ],
+    "Sidi Kacem": [
+        {
+            "CS": "Lamrabih",
+            "location": {
+                "lat": 34.5933744,
+                "lng": -5.4627097
+            }
+        },
+        {
+            "CS": "Khnichet",
+            "location": {
+                "lat": 34.4403282,
+                "lng": -5.6852428
+            }
+        },
+        {
+            "CS": "Oulad Nouel",
+            "location": {
+                "lat": 34.4936349,
+                "lng": -5.7122139
+            }
+        },
+        {
+            "CS": "Zirara",
+            "location": {
+                "lat": 34.2418666,
+                "lng": -5.7438055
+            }
+        },
+        {
+            "CS": "Tekna - Bir Taleb",
+            "location": {
+                "lat": 34.3433245,
+                "lng": -5.6602562
+            }
+        },
+        {
+            "CS": "Nouirate",
+            "location": {
+                "lat": 34.5678758,
+                "lng": -5.8927738
+            }
+        },
+        {
+            "CS": "El Mokhtar",
+            "location": {
+                "lat": 31.8581851,
+                "lng": -7.1218053
+            }
+        },
+        {
+            "CS": "Dar Laaslouji",
+            "location": {
+                "lat": 34.4098823,
+                "lng": -6.0276011
+            }
+        },
+        {
+            "CS": "Sefsaf",
+            "location": {
+                "lat": 34.5572233,
+                "lng": -6.0123468
+            }
+        },
+        {
+            "CS": "Al Haouafate",
+            "location": {
+                "lat": 34.4659731,
+                "lng": -5.9165375
+            }
+        },
+        {
+            "CS": "S.Ameur Al Hadi",
+            "location": {
+                "lat": 34.0976161,
+                "lng": -6.6872896
+            }
+        },
+        {
+            "CS": "My Abdelkader",
+            "location": {
+                "lat": 34.6424494,
+                "lng": -5.768622000000001
+            }
+        },
+        {
+            "CS": "Ain Dfali",
+            "location": {
+                "lat": 34.5997921,
+                "lng": -5.549915599999999
+            }
+        },
+        {
+            "CS": "Sidi Kacem",
+            "location": {
+                "lat": 34.2260172,
+                "lng": -5.7129164
+            }
+        },
+        {
+            "CS": "Mechraa Bel Ksiri",
+            "location": {
+                "lat": 34.5739933,
+                "lng": -5.951539899999999
+            }
+        },
+        {
+            "CS": "Jorf El Melha",
+            "location": {
+                "lat": 34.4927017,
+                "lng": -5.5066242
+            }
+        },
+        {
+            "CS": "Had Kourt",
+            "location": {
+                "lat": 34.6159961,
+                "lng": -5.7365642
+            }
+        },
+        {
+            "CS": "Dar Gueddari",
+            "location": {
+                "lat": 34.4207757,
+                "lng": -6.0917517
+            }
+        }
+    ],
+    "Sidi Slimane": [
+        {
+            "CS": "Boumaiz",
+            "location": {
+                "lat": 34.2926418,
+                "lng": -5.9353219
+            }
+        },
+        {
+            "CS": "Ouled H'Cine",
+            "location": {
+                "lat": 34.3931324,
+                "lng": -5.7635587
+            }
+        },
+        {
+            "CS": "Msaada",
+            "location": {
+                "lat": 32.4544089,
+                "lng": -8.5384575
+            }
+        },
+        {
+            "CS": "Kceibya",
+            "location": {
+                "lat": 34.3031741,
+                "lng": -6.1594599
+            }
+        },
+        {
+            "CS": "Sfafaa",
+            "location": {
+                "lat": 34.333514,
+                "lng": -5.9633305
+            }
+        },
+        {
+            "CS": "Dar Bel Amri",
+            "location": {
+                "lat": 34.1888336,
+                "lng": -5.9700399
+            }
+        },
+        {
+            "CS": "Azghar-Ouled Ben Hammadi",
+            "location": {
+                "lat": 34.2004353,
+                "lng": -5.82945
+            }
+        },
+        {
+            "CS": "Ameur Echamalia",
+            "location": {
+                "lat": 34.0976161,
+                "lng": -6.6872896
+            }
+        },
+        {
+            "CS": "S.Yahia El Gharb",
+            "location": {
+                "lat": 34.302131,
+                "lng": -6.302078
+            }
+        },
+        {
+            "CS": "Sidi Slimane",
+            "location": {
+                "lat": 34.2622961,
+                "lng": -5.9239749
+            }
+        }
+    ],
+    "Skhirate-Temara": [
+        {
+            "CS": "Sidi Yahya Zaers",
+            "location": {
+                "lat": 33.8279092,
+                "lng": -6.9034735
+            }
+        },
+        {
+            "CS": "Sabbah",
+            "location": {
+                "lat": 33.8029173,
+                "lng": -7.0384183
+            }
+        },
+        {
+            "CS": "Mers El Kheir",
+            "location": {
+                "lat": 33.88340549999999,
+                "lng": -6.903208299999999
+            }
+        },
+        {
+            "CS": "Oumazza",
+            "location": {
+                "lat": 33.8807966,
+                "lng": -6.7857078
+            }
+        },
+        {
+            "CS": "El Menzeh",
+            "location": {
+                "lat": 33.9025109,
+                "lng": -5.534169599999999
+            }
+        },
+        {
+            "CS": "Ain Attig",
+            "location": {
+                "lat": 33.89635579999999,
+                "lng": -6.9536289
+            }
+        },
+        {
+            "CS": "Temara",
+            "location": {
+                "lat": 33.9203274,
+                "lng": -6.9273969
+            }
+        },
+        {
+            "CS": "Skhirat",
+            "location": {
+                "lat": 33.8509477,
+                "lng": -7.060599799999999
+            }
+        },
+        {
+            "CS": "Harhoura",
+            "location": {
+                "lat": 33.934214,
+                "lng": -6.9454711
+            }
+        },
+        {
+            "CS": "Ain El Aouda",
+            "location": {
+                "lat": 33.8052064,
+                "lng": -6.7868794
+            }
+        }
+    ],
+    "Tan Tan": [
+        {
+            "CS": "Chbika",
+            "location": {
+                "lat": 28.183333,
+                "lng": -11.166667
+            }
+        },
+        {
+            "CS": "Ben Khlil",
+            "location": {
+                "lat": 28.2842915,
+                "lng": -11.5390146
+            }
+        },
+        {
+            "CS": "Abteh",
+            "location": {
+                "lat": 27.9030648,
+                "lng": -11.448821
+            }
+        },
+        {
+            "CS": "Tilemzoun",
+            "location": {
+                "lat": 28.2778047,
+                "lng": -10.9030159
+            }
+        },
+        {
+            "CS": "Msied",
+            "location": {
+                "lat": 28.0160921,
+                "lng": -10.8155201
+            }
+        },
+        {
+            "CS": "El Ouatia",
+            "location": {
+                "lat": 28.4819166,
+                "lng": -11.348779
+            }
+        },
+        {
+            "CS": "Tan-Tan",
+            "location": {
+                "lat": 28.4380408,
+                "lng": -11.0987374
+            }
+        }
+    ],
+    "Tanger Assilah": [
+        {
+            "CS": "Bni Makada",
+            "location": {
+                "lat": 35.7503222,
+                "lng": -5.816924999999999
+            }
+        },
+        {
+            "CS": "Mghogha",
+            "location": {
+                "lat": 35.752099,
+                "lng": -5.780024699999999
+            }
+        },
+        {
+            "CS": "HJAR ENNHAL",
+            "location": {
+                "lat": 35.6078878,
+                "lng": -5.918518199999999
+            }
+        },
+        {
+            "CS": "Sidi Lyamani",
+            "location": {
+                "lat": 35.3684727,
+                "lng": -5.973344099999999
+            }
+        },
+        {
+            "CS": "Laaouama",
+            "location": {
+                "lat": 35.7225804,
+                "lng": -5.799789899999999
+            }
+        },
+        {
+            "CS": "Gharbia",
+            "location": {
+                "lat": 30.8753556,
+                "lng": 31.03351
+            }
+        },
+        {
+            "CS": "Dar Chaoui",
+            "location": {
+                "lat": 35.5317302,
+                "lng": -5.716819999999999
+            }
+        },
+        {
+            "CS": "Gueznaia",
+            "location": {
+                "lat": 35.7034548,
+                "lng": -5.8855146
+            }
+        },
+        {
+            "CS": "Al Madina",
+            "location": {
+                "lat": 33.5415679,
+                "lng": -7.635357099999999
+            }
+        },
+        {
+            "CS": "Souani",
+            "location": {
+                "lat": 35.1990083,
+                "lng": -3.8605993
+            }
+        },
+        {
+            "CS": "Assilah",
+            "location": {
+                "lat": 35.4646127,
+                "lng": -6.0308654
+            }
+        }
+    ],
+    "Taounate": [
+        {
+            "CS": "Chraga",
+            "location": {
+                "lat": 36.7668544,
+                "lng": 2.9602011
+            }
+        },
+        {
+            "CS": "Taounate",
+            "location": {
+                "lat": 34.536917,
+                "lng": -4.6398693
+            }
+        },
+        {
+            "CS": "Outabouabane",
+            "location": {
+                "lat": 34.2606168,
+                "lng": -4.4123199
+            }
+        },
+        {
+            "CS": "Oulad Riyab",
+            "location": {
+                "lat": 32.54274520000001,
+                "lng": -6.373138399999999
+            }
+        },
+        {
+            "CS": "Oulad Aliane",
+            "location": {
+                "lat": 32.0163889,
+                "lng": -8.096111
+            }
+        },
+        {
+            "CS": "Bouarouss",
+            "location": {
+                "lat": 33.9537558,
+                "lng": -4.4088857
+            }
+        },
+        {
+            "CS": "Ain Aicha",
+            "location": {
+                "lat": 34.4661306,
+                "lng": -4.6837934
+            }
+        },
+        {
+            "CS": "Mtioua - Louta",
+            "location": {
+                "lat": 34.5884315,
+                "lng": -4.5525228
+            }
+        },
+        {
+            "CS": "Mezraoua Rghioua",
+            "location": {
+                "lat": 34.5687881,
+                "lng": -4.7364842
+            }
+        },
+        {
+            "CS": "Mernissa",
+            "location": {
+                "lat": 33.533333,
+                "lng": -7.583333
+            }
+        },
+        {
+            "CS": "Oued Lkasba",
+            "location": {
+                "lat": 30.5300977,
+                "lng": -6.111619
+            }
+        },
+        {
+            "CS": "Bouhouda",
+            "location": {
+                "lat": 34.59219700000001,
+                "lng": -4.5491541
+            }
+        },
+        {
+            "CS": "Bni Oulid",
+            "location": {
+                "lat": 34.5869677,
+                "lng": -4.445223299999999
+            }
+        },
+        {
+            "CS": "Ain Mediouna",
+            "location": {
+                "lat": 34.4967927,
+                "lng": -4.548904300000001
+            }
+        },
+        {
+            "CS": "Oulad Aissa Hjaoua",
+            "location": "NaN"
+        },
+        {
+            "CS": "Chraga - Bni Amer",
+            "location": {
+                "lat": 34.6633685,
+                "lng": -1.5394825
+            }
+        },
+        {
+            "CS": "Moulay Bouchta",
+            "location": {
+                "lat": 34.4912621,
+                "lng": -5.126268899999999
+            }
+        },
+        {
+            "CS": "B.Senous Fechtala",
+            "location": "NaN"
+        },
+        {
+            "CS": "Tafrant",
+            "location": {
+                "lat": 34.6254685,
+                "lng": -5.1197556
+            }
+        },
+        {
+            "CS": "Sidi Mokhfi",
+            "location": {
+                "lat": 34.6027247,
+                "lng": -4.7869597
+            }
+        },
+        {
+            "CS": "Oudka",
+            "location": {
+                "lat": 34.6957115,
+                "lng": -4.9208134
+            }
+        },
+        {
+            "CS": "Ourtzarh",
+            "location": {
+                "lat": 34.5389744,
+                "lng": -4.6385754
+            }
+        },
+        {
+            "CS": "Galaz",
+            "location": {
+                "lat": 34.5403537,
+                "lng": -4.8015285
+            }
+        },
+        {
+            "CS": "Bni Zeroual",
+            "location": {
+                "lat": 34.7016345,
+                "lng": -4.9915006
+            }
+        },
+        {
+            "CS": "Tissa",
+            "location": {
+                "lat": 34.2882068,
+                "lng": -4.6669947
+            }
+        },
+        {
+            "CS": "Thar Es-Souk",
+            "location": {
+                "lat": 34.6523426,
+                "lng": -4.2769281
+            }
+        },
+        {
+            "CS": "Karia Ba Mohammed",
+            "location": {
+                "lat": 34.3670576,
+                "lng": -5.2188379
+            }
+        },
+        {
+            "CS": "Rhafsai",
+            "location": {
+                "lat": 34.6340058,
+                "lng": -4.911728399999999
+            }
+        }
+    ],
+    "Taourirt": [
+        {
+            "CS": "Ahlaf",
+            "location": {
+                "lat": 33.2871033,
+                "lng": -7.2046229
+            }
+        },
+        {
+            "CS": "Melg El Ouidane",
+            "location": {
+                "lat": 34.5584463,
+                "lng": -3.0238266
+            }
+        },
+        {
+            "CS": "Ahl Taourirt",
+            "location": {
+                "lat": 34.3983716,
+                "lng": -2.8935028
+            }
+        },
+        {
+            "CS": "Mestegmer",
+            "location": {
+                "lat": 34.481678,
+                "lng": -2.6959016
+            }
+        },
+        {
+            "CS": "Laayoune Banlieu",
+            "location": {
+                "lat": 27.1500384,
+                "lng": -13.1990758
+            }
+        },
+        {
+            "CS": "Zoua",
+            "location": {
+                "lat": 35.512572,
+                "lng": -5.803351
+            }
+        },
+        {
+            "CS": "Sidi Lahsen",
+            "location": {
+                "lat": 34.1111095,
+                "lng": -2.6362975
+            }
+        },
+        {
+            "CS": "Al Guada",
+            "location": {
+                "lat": 36.839701,
+                "lng": -2.402444
+            }
+        },
+        {
+            "CS": "Taourirt",
+            "location": {
+                "lat": 34.3983716,
+                "lng": -2.8935028
+            }
+        },
+        {
+            "CS": "El Aioun-Sidi Mellouk",
+            "location": {
+                "lat": 34.5824996,
+                "lng": -2.5098914
+            }
+        },
+        {
+            "CS": "Debdou",
+            "location": {
+                "lat": 33.9849587,
+                "lng": -3.0400945
+            }
+        }
+    ],
+    "Tarfaya": [
+        {
+            "CS": "Tarfaya",
+            "location": {
+                "lat": 27.9375382,
+                "lng": -12.9262851
+            }
+        },
+        {
+            "CS": "Tah",
+            "location": {
+                "lat": 31.791702,
+                "lng": -7.092619999999999
+            }
+        },
+        {
+            "CS": "Akhfennir",
+            "location": {
+                "lat": 28.0942907,
+                "lng": -12.050407
+            }
+        },
+        {
+            "CS": "El Hagounia",
+            "location": {
+                "lat": 27.4306567,
+                "lng": -12.3893488
+            }
+        },
+        {
+            "CS": "Daoura",
+            "location": {
+                "lat": 27.4632766,
+                "lng": -12.9910548
+            }
+        }
+    ],
+    "Taroudant": [
+        {
+            "CS": "Freija",
+            "location": {
+                "lat": 30.4865111,
+                "lng": -8.7873625
+            }
+        },
+        {
+            "CS": "Saktana",
+            "location": {
+                "lat": 33.508134,
+                "lng": -7.654179999999999
+            }
+        },
+        {
+            "CS": "Tazemmourt",
+            "location": {
+                "lat": 30.4058071,
+                "lng": -8.8293845
+            }
+        },
+        {
+            "CS": "Tamaloukte",
+            "location": {
+                "lat": 30.603253,
+                "lng": -8.844545499999999
+            }
+        },
+        {
+            "CS": "Ahmar",
+            "location": {
+                "lat": 33.8508333,
+                "lng": -5.9761111
+            }
+        },
+        {
+            "CS": "Askaouen",
+            "location": {
+                "lat": 30.7415341,
+                "lng": -7.7783462
+            }
+        },
+        {
+            "CS": "Assaki",
+            "location": {
+                "lat": 35.05,
+                "lng": -4.683333
+            }
+        },
+        {
+            "CS": "Sidi Moussa El Hamri",
+            "location": {
+                "lat": 30.4714378,
+                "lng": -9.1608372
+            }
+        },
+        {
+            "CS": "Ouled M'hella",
+            "location": {
+                "lat": 30.4224951,
+                "lng": -8.9605924
+            }
+        },
+        {
+            "CS": "Machraa El Aine",
+            "location": {
+                "lat": 30.4171139,
+                "lng": -8.8941841
+            }
+        },
+        {
+            "CS": "Argana",
+            "location": {
+                "lat": 30.7821237,
+                "lng": -9.1220962
+            }
+        },
+        {
+            "CS": "Ain Chaib",
+            "location": {
+                "lat": 30.3799167,
+                "lng": -9.233526999999999
+            }
+        },
+        {
+            "CS": "Tafingoult",
+            "location": {
+                "lat": 30.7648281,
+                "lng": -8.388272299999999
+            }
+        },
+        {
+            "CS": "Sidi Abdellah Ou Moussa",
+            "location": {
+                "lat": 30.7532462,
+                "lng": -8.682751399999999
+            }
+        },
+        {
+            "CS": "Igli",
+            "location": {
+                "lat": 30.4517889,
+                "lng": -2.2906605
+            }
+        },
+        {
+            "CS": "El Faid",
+            "location": {
+                "lat": 30.6148606,
+                "lng": -8.2117288
+            }
+        },
+        {
+            "CS": "El Mguert",
+            "location": {
+                "lat": 41.3843563,
+                "lng": 2.119736
+            }
+        },
+        {
+            "CS": "Ait Abdellah",
+            "location": {
+                "lat": 29.81329629999999,
+                "lng": -8.769458499999999
+            }
+        },
+        {
+            "CS": "Oualqadi",
+            "location": {
+                "lat": 35.0602123,
+                "lng": -2.9113639
+            }
+        },
+        {
+            "CS": "Adar",
+            "location": {
+                "lat": 35.083333,
+                "lng": -4.75
+            }
+        },
+        {
+            "CS": "Aoulouz",
+            "location": {
+                "lat": 30.6760806,
+                "lng": -8.1693666
+            }
+        },
+        {
+            "CS": "Taroudant",
+            "location": {
+                "lat": 30.4727126,
+                "lng": -8.8748765
+            }
+        },
+        {
+            "CS": "Taliouine",
+            "location": {
+                "lat": 30.5312657,
+                "lng": -7.923878499999999
+            }
+        },
+        {
+            "CS": "Oulad Teima",
+            "location": {
+                "lat": 30.3917567,
+                "lng": -9.2175988
+            }
+        },
+        {
+            "CS": "Ouled Berhil",
+            "location": {
+                "lat": 30.6362398,
+                "lng": -8.478759
+            }
+        },
+        {
+            "CS": "Ighrem",
+            "location": {
+                "lat": 30.0849956,
+                "lng": -8.4650419
+            }
+        },
+        {
+            "CS": "El Guerdane",
+            "location": {
+                "lat": 29.6516492,
+                "lng": -7.9511137
+            }
+        },
+        {
+            "CS": "Ait Iaaza",
+            "location": {
+                "lat": 30.5122316,
+                "lng": -8.7976937
+            }
+        }
+    ],
+    "Tata": [
+        {
+            "CS": "Tagmoute",
+            "location": {
+                "lat": 29.0287856,
+                "lng": -9.458933
+            }
+        },
+        {
+            "CS": "Issafen",
+            "location": {
+                "lat": 29.5898885,
+                "lng": -9.336789699999999
+            }
+        },
+        {
+            "CS": "Adis",
+            "location": {
+                "lat": 48.6043392,
+                "lng": 7.7588247
+            }
+        },
+        {
+            "CS": "Tissint",
+            "location": {
+                "lat": 29.8995626,
+                "lng": -7.3206039
+            }
+        },
+        {
+            "CS": "Allougoum",
+            "location": {
+                "lat": 30.2711816,
+                "lng": -6.8357699
+            }
+        },
+        {
+            "CS": "Akka Ighane",
+            "location": {
+                "lat": 29.9921888,
+                "lng": -7.530468399999999
+            }
+        },
+        {
+            "CS": "Tamanarte",
+            "location": {
+                "lat": 29.11,
+                "lng": -8.93
+            }
+        },
+        {
+            "CS": "Ait Ouabelli",
+            "location": {
+                "lat": 29.2292896,
+                "lng": -8.536398199999999
+            }
+        },
+        {
+            "CS": "Kasbat Sidi Abdellah Ben M'Barek",
+            "location": {
+                "lat": 29.4249474,
+                "lng": -8.2677939
+            }
+        },
+        {
+            "CS": "Tata",
+            "location": {
+                "lat": 29.750877,
+                "lng": -7.975634299999999
+            }
+        },
+        {
+            "CS": "Foum-Zguid",
+            "location": {
+                "lat": 30.0799845,
+                "lng": -6.8806743
+            }
+        },
+        {
+            "CS": "Fam El Hisne",
+            "location": {
+                "lat": 29.0101685,
+                "lng": -8.8886672
+            }
+        },
+        {
+            "CS": "Akka",
+            "location": {
+                "lat": 29.3910473,
+                "lng": -8.256851
+            }
+        }
+    ],
+    "Taza": [
+        {
+            "CS": "Maghraoua",
+            "location": {
+                "lat": 33.9323783,
+                "lng": -4.0478306
+            }
+        },
+        {
+            "CS": "Meknassa",
+            "location": {
+                "lat": 34.2805082,
+                "lng": -4.074975500000001
+            }
+        },
+        {
+            "CS": "Galdamane",
+            "location": {
+                "lat": 34.1323201,
+                "lng": -3.9489515
+            }
+        },
+        {
+            "CS": "Bni Lent",
+            "location": {
+                "lat": 34.3320754,
+                "lng": -4.190099
+            }
+        },
+        {
+            "CS": "Bab Marzouka",
+            "location": {
+                "lat": 34.2357943,
+                "lng": -4.074656099999999
+            }
+        },
+        {
+            "CS": "Tainaste",
+            "location": {
+                "lat": 34.5521246,
+                "lng": -4.1385819
+            }
+        },
+        {
+            "CS": "Msila",
+            "location": {
+                "lat": 35.7186646,
+                "lng": 4.523342299999999
+            }
+        },
+        {
+            "CS": "Kaf El Ghar",
+            "location": {
+                "lat": 34.5093791,
+                "lng": -4.2564094
+            }
+        },
+        {
+            "CS": "Bab El Mrouj",
+            "location": {
+                "lat": 34.4135168,
+                "lng": -4.043361
+            }
+        },
+        {
+            "CS": "Zrarda",
+            "location": {
+                "lat": 33.980785,
+                "lng": -4.3822109
+            }
+        },
+        {
+            "CS": "Bouzemlane",
+            "location": {
+                "lat": 34.0163008,
+                "lng": -4.5499317
+            }
+        },
+        {
+            "CS": "Bouyablane",
+            "location": {
+                "lat": 33.6638889,
+                "lng": -4.0905556
+            }
+        },
+        {
+            "CS": "B. Ouarain Al Gharbia",
+            "location": {
+                "lat": 23.9314995,
+                "lng": 53.045893
+            }
+        },
+        {
+            "CS": "Oulad Zbair",
+            "location": {
+                "lat": 34.2898386,
+                "lng": -4.3192729
+            }
+        },
+        {
+            "CS": "Ghiata Al Gharbia",
+            "location": {
+                "lat": 34.1942243,
+                "lng": -4.1999688
+            }
+        },
+        {
+            "CS": "Bouhlou",
+            "location": {
+                "lat": 34.139703,
+                "lng": -4.4066355
+            }
+        },
+        {
+            "CS": "Bni Frassen",
+            "location": {
+                "lat": 34.3820364,
+                "lng": -4.3757853
+            }
+        },
+        {
+            "CS": "Tizi Ouasli",
+            "location": {
+                "lat": 34.762026,
+                "lng": -3.7968574
+            }
+        },
+        {
+            "CS": "Aknoul-rural",
+            "location": {
+                "lat": 34.6433732,
+                "lng": -3.861979499999999
+            }
+        },
+        {
+            "CS": "Ajdir",
+            "location": {
+                "lat": 35.2013284,
+                "lng": -3.9113634
+            }
+        },
+        {
+            "CS": "Taza",
+            "location": {
+                "lat": 34.2105603,
+                "lng": -3.9980485
+            }
+        },
+        {
+            "CS": "Tahla",
+            "location": {
+                "lat": 34.0542897,
+                "lng": -4.4259259
+            }
+        },
+        {
+            "CS": "Ouad Amlil",
+            "location": {
+                "lat": 34.1876616,
+                "lng": -4.2666678
+            }
+        },
+        {
+            "CS": "Aknoul",
+            "location": {
+                "lat": 34.6495513,
+                "lng": -3.8629852
+            }
+        }
+    ],
+    "Tetouan": [
+        {
+            "CS": "Tetouan",
+            "location": {
+                "lat": 35.5888995,
+                "lng": -5.3625516
+            }
+        },
+        {
+            "CS": "Bni Said",
+            "location": {
+                "lat": 37.0126353,
+                "lng": 6.5286196
+            }
+        },
+        {
+            "CS": "Bni Karrich",
+            "location": {
+                "lat": 35.506858,
+                "lng": -5.427969699999999
+            }
+        },
+        {
+            "CS": "Bni Idder",
+            "location": {
+                "lat": 35.3985503,
+                "lng": -5.512525699999999
+            }
+        },
+        {
+            "CS": "Bni Hassan",
+            "location": {
+                "lat": 32.0369757,
+                "lng": -6.946410999999999
+            }
+        },
+        {
+            "CS": "Azla -Zaitoune",
+            "location": {
+                "lat": 35.5446199,
+                "lng": -5.2527741
+            }
+        },
+        {
+            "CS": "Mallalienne",
+            "location": {
+                "lat": 35.6256697,
+                "lng": -5.3306039
+            }
+        },
+        {
+            "CS": "Jbel Lahbib",
+            "location": {
+                "lat": 35.4664997,
+                "lng": -5.7971542
+            }
+        },
+        {
+            "CS": "Ain Lahsan",
+            "location": {
+                "lat": 35.5478157,
+                "lng": -5.554837099999999
+            }
+        },
+        {
+            "CS": "Oued Laou",
+            "location": {
+                "lat": 35.4449242,
+                "lng": -5.0937101
+            }
+        }
+    ],
+    "Tinghir": [
+        {
+            "CS": "Assoul",
+            "location": {
+                "lat": 31.9501627,
+                "lng": -5.2097047
+            }
+        },
+        {
+            "CS": "Ait Hani",
+            "location": {
+                "lat": 31.7781122,
+                "lng": -5.455502999999999
+            }
+        },
+        {
+            "CS": "Toudgha",
+            "location": {
+                "lat": 31.5219851,
+                "lng": -5.5273977
+            }
+        },
+        {
+            "CS": "Taghzoute",
+            "location": {
+                "lat": 31.45671179999999,
+                "lng": -5.4225707
+            }
+        },
+        {
+            "CS": "Alnif",
+            "location": {
+                "lat": 31.1164073,
+                "lng": -5.1666678
+            }
+        },
+        {
+            "CS": "H'Ssyia",
+            "location": {
+                "lat": 48.8385379,
+                "lng": 2.3785842
+            }
+        },
+        {
+            "CS": "Souk Lkhmis",
+            "location": {
+                "lat": 31.3129426,
+                "lng": -6.0282195
+            }
+        },
+        {
+            "CS": "M'semrir",
+            "location": {
+                "lat": 31.704172,
+                "lng": -5.8116522
+            }
+        },
+        {
+            "CS": "Ikniouen",
+            "location": {
+                "lat": 31.1736495,
+                "lng": -5.6734057
+            }
+        },
+        {
+            "CS": "Ait Sedrate Jbel",
+            "location": {
+                "lat": 31.6034046,
+                "lng": -5.8633526
+            }
+        },
+        {
+            "CS": "Ahl Mgoun",
+            "location": {
+                "lat": 31.046189,
+                "lng": -6.581303999999999
+            }
+        },
+        {
+            "CS": "Kalaat M'gouna",
+            "location": {
+                "lat": 31.2370612,
+                "lng": -6.126192500000001
+            }
+        },
+        {
+            "CS": "Boumalne-Dades",
+            "location": {
+                "lat": 31.3689243,
+                "lng": -5.9885456
+            }
+        },
+        {
+            "CS": "Tinghir",
+            "location": {
+                "lat": 31.5204633,
+                "lng": -5.5302337
+            }
+        }
+    ],
+    "Tiznit": [
+        {
+            "CS": "Ida Ou Gougmar",
+            "location": {
+                "lat": 29.5363292,
+                "lng": -9.281330299999999
+            }
+        },
+        {
+            "CS": "Z.S.Ahmed Ou Moussa",
+            "location": {
+                "lat": 29.5047141,
+                "lng": -9.4540715
+            }
+        },
+        {
+            "CS": "Oulad Jerrar",
+            "location": {
+                "lat": 29.577618,
+                "lng": -9.7065478
+            }
+        },
+        {
+            "CS": "Bounaamane",
+            "location": {
+                "lat": 29.5326881,
+                "lng": -9.8097037
+            }
+        },
+        {
+            "CS": "Arbaa Ras Mouka",
+            "location": {
+                "lat": 29.8026112,
+                "lng": -9.55205
+            }
+        },
+        {
+            "CS": "Aglou",
+            "location": {
+                "lat": 29.7833226,
+                "lng": -9.853642599999999
+            }
+        },
+        {
+            "CS": "Had Tahala",
+            "location": {
+                "lat": 34.2898386,
+                "lng": -4.3192729
+            }
+        },
+        {
+            "CS": "Ammelne",
+            "location": {
+                "lat": 29.7537477,
+                "lng": -8.966619999999999
+            }
+        },
+        {
+            "CS": "Afella Ighir",
+            "location": {
+                "lat": 29.4957366,
+                "lng": -8.8442753
+            }
+        },
+        {
+            "CS": "Anezi",
+            "location": {
+                "lat": 30.416667,
+                "lng": -9.6009087
+            }
+        },
+        {
+            "CS": "Tighmi",
+            "location": {
+                "lat": 29.5876254,
+                "lng": -9.407475699999999
+            }
+        },
+        {
+            "CS": "Arbaa Ait Ahmed",
+            "location": {
+                "lat": 29.8005408,
+                "lng": -9.3556125
+            }
+        },
+        {
+            "CS": "Tiznit",
+            "location": {
+                "lat": 29.693392,
+                "lng": -9.732156999999999
+            }
+        },
+        {
+            "CS": "Tafraout",
+            "location": {
+                "lat": 29.7182191,
+                "lng": -8.9769851
+            }
+        }
+    ],
+    "Youssoufia": [
+        {
+            "CS": "Ras El Ain",
+            "location": {
+                "lat": 32.9795925,
+                "lng": -7.393530699999999
+            }
+        },
+        {
+            "CS": "Lakhoualqa",
+            "location": {
+                "lat": 32.0501346,
+                "lng": -8.3533408
+            }
+        },
+        {
+            "CS": "El Gantour",
+            "location": {
+                "lat": 32.2285024,
+                "lng": -8.4608333
+            }
+        },
+        {
+            "CS": "Sidi Chiker",
+            "location": {
+                "lat": 31.7619783,
+                "lng": -8.691004999999999
+            }
+        },
+        {
+            "CS": "Jnane Bouih",
+            "location": {
+                "lat": 32.0299198,
+                "lng": -8.7970049
+            }
+        },
+        {
+            "CS": "Jdour",
+            "location": {
+                "lat": 32.1051992,
+                "lng": -8.77841
+            }
+        },
+        {
+            "CS": "Ighoud",
+            "location": {
+                "lat": 31.8609696,
+                "lng": -8.8831506
+            }
+        },
+        {
+            "CS": "Echemmaia",
+            "location": {
+                "lat": 32.0895354,
+                "lng": -8.6073927
+            }
+        },
+        {
+            "CS": "Youssoufia",
+            "location": {
+                "lat": 32.2438426,
+                "lng": -8.5226706
+            }
+        }
+    ],
+    "Zagora": [
+        {
+            "CS": "Zagora",
+            "location": {
+                "lat": 30.34589979999999,
+                "lng": -5.8406587
+            }
+        },
+        {
+            "CS": "Tinzouline",
+            "location": {
+                "lat": 30.5032888,
+                "lng": -6.102346799999999
+            }
+        },
+        {
+            "CS": "Ternata",
+            "location": {
+                "lat": 30.332678,
+                "lng": -5.8374764
+            }
+        },
+        {
+            "CS": "Tamegroute",
+            "location": {
+                "lat": 30.2638799,
+                "lng": -5.6799816
+            }
+        },
+        {
+            "CS": "Tagounite",
+            "location": {
+                "lat": 29.98035479999999,
+                "lng": -5.580107300000001
+            }
+        },
+        {
+            "CS": "M'hamid",
+            "location": {
+                "lat": 29.8257743,
+                "lng": -5.7234007
+            }
+        },
+        {
+            "CS": "Bni Zoli",
+            "location": {
+                "lat": 30.4439072,
+                "lng": -5.8960738
+            }
+        },
+        {
+            "CS": "Tazarine",
+            "location": {
+                "lat": 30.7717757,
+                "lng": -5.545978700000001
+            }
+        },
+        {
+            "CS": "Tansifte",
+            "location": {
+                "lat": 31.7255417,
+                "lng": -8.3308906
+            }
+        },
+        {
+            "CS": "Tamezmoute",
+            "location": {
+                "lat": 30.6547013,
+                "lng": -6.1434201
+            }
+        },
+        {
+            "CS": "N'kob",
+            "location": {
+                "lat": 30.8694027,
+                "lng": -5.8644018
+            }
+        },
+        {
+            "CS": "Agdz",
+            "location": {
+                "lat": 30.7041312,
+                "lng": -6.453007299999999
+            }
+        }
+    ]
+}

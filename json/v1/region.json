@@ -1,0 +1,86 @@
+[
+    {
+        "region": "Casablanca-Settat",
+        "location": {
+            "lat": 33.2160872,
+            "lng": -7.4381355
+        }
+    },
+    {
+        "region": "Marrakech-Safi",
+        "location": {
+            "lat": 31.7330833,
+            "lng": -8.1338558
+        }
+    },
+    {
+        "region": "Rabat-Salé-Kénitra",
+        "location": {
+            "lat": 34.1727659,
+            "lng": -6.2375947
+        }
+    },
+    {
+        "region": "Drâa-Tafilalet",
+        "location": {
+            "lat": 31.1499538,
+            "lng": -5.393955099999999
+        }
+    },
+    {
+        "region": "Dakhla-Oued Ed Dahab",
+        "location": {
+            "lat": 22.7337892,
+            "lng": -14.2861116
+        }
+    },
+    {
+        "region": "Béni Mellal-Khénifra",
+        "location": {
+            "lat": 32.5719184,
+            "lng": -6.0679194
+        }
+    },
+    {
+        "region": "l'Oriental",
+        "location": {
+            "lat": 33.4198879,
+            "lng": -2.1450245
+        }
+    },
+    {
+        "region": "Souss-Massa",
+        "location": {
+            "lat": 30.2750611,
+            "lng": -8.1338558
+        }
+    },
+    {
+        "region": "Laâyoune-Sakia El Hamra",
+        "location": {
+            "lat": 27.8683194,
+            "lng": -11.9804613
+        }
+    },
+    {
+        "region": "Guelmim-Oued Noun",
+        "location": {
+            "lat": 28.4844281,
+            "lng": -10.0807298
+        }
+    },
+    {
+        "region": "Tanger-Tétouan-Al Hoceïma",
+        "location": {
+            "lat": 35.2629558,
+            "lng": -5.5617279
+        }
+    },
+    {
+        "region": "Fès-Meknès",
+        "location": {
+            "lat": 34.062529,
+            "lng": -4.7277528
+        }
+        }
+]
